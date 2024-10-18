@@ -1,90 +1,89 @@
-﻿blank,session,date,filename,unit,topic,title,pad-slug,image,zotero-tag,zotero-readings,objective,tags,contents
-,1,16.10,2023-10-16-1.md,,Introduction,1. Introduction,1,wool.jpg,1-Introduction,,"1. Get oriented to the way this course works.
-2. Explain why the story of each Abrahamic faith cannot be understood without the others.",[1],"---
+﻿blank,session,date,filename,unit,topic,long-topic,title,pad-slug,image,zotero-tag,zotero-readings,objective,tags,contents
+,1,18.10,2024-10-18-1.md,,Einfühurung,,1. Einfühurung,1,instagram-thread.jpg,1-Einfühurung,,,[1],"---
 layout: post
 session: 1
 tags: [1]
 level: overview
 ---"
-,2,23.10,2023-10-23-2.md,,Monotheism,2. Monotheism,2,stars.jpg,2-Monotheism,"[beckingBoundariesIsraeliteMonotheism2008a, langMonotheismus1998a]","Describe how Abraham became a father of faith to Judaism, Christianity, and Islam.",[2],"---
+,2,25.10,2024-10-25-2.md,Grundlagen,Digitale Religion – was ist das?,"Digitale Praxis, hybride Räume, Schnittstellen online-offline ",2. Grundlagen: Digitale Religion – was ist das?,2,instagram-thread.jpg,2-Digitale-Religion-–-was-ist-das?,evolviReligionInternetDigital2021,,[2],"---
 layout: post
 session: 2
 tags: [2]
 level: overview
 ---"
-,3,30.10,2023-10-30-3.md,,Scripture & Prophets,3. Scripture & Prophets,3,isaiah.jpg,3-Scripture-Prophets,,,[3],"---
+,3,01.11,2024-11-01-3.md,Grundlagen,Affordanzen der Sozialen Medien,"Interaktionen, Ästhetik, Policies, Algorithmen…",3. Grundlagen: Affordanzen der Sozialen Medien,3,instagram-thread.jpg,3-Affordanzen-der-Sozialen-Medien,richterRelationaleAffordanzenOder2022,,[3],"---
 layout: post
 session: 3
 tags: [3]
 level: overview
 ---"
-,4,06.11,2023-11-06-4.md,,Messiah & Covenant,4. Messiah & Covenant,4,palm.jpg,4-Messiah-Covenant,,,[4],"---
+,4,08.11,2024-11-08-4.md,Grundlagen,Influencing als Phänomen/Die Figur des/r “Influencer*in“,"Formen der Medialisierung Ästhetische Praktiken, Sensorik",4. Grundlagen: Influencing als Phänomen/Die Figur des/r “Influencer*in“,4,instagram-thread.jpg,4-Influencing-als-Phänomen/Die-Figur-des/r-“Influencer*in“,muellerGlaubensinfluencerInnenAuf2024,,[4],"---
 layout: post
 session: 4
 tags: [4]
 level: overview
 ---"
-,5,13.11,2023-11-13-5.md,,Parting of the Ways,5. Parting of the Ways,5,stone.jpg,5-Parting-of-the-Ways,,,[5],"---
+,5,15.11,2024-11-15-5.md,Forschungsmethoden,On- und Offline Fragen,Hybride Ethnographie,5. Forschungsmethoden: On- und Offline Fragen,5,instagram-thread.jpg,5-On-und-Offline-Fragen,przybylskiIntroductionHybridEthnography2021,,[5],"---
 layout: post
 session: 5
 tags: [5]
 level: overview
 ---"
-,6,20.11,2023-11-20-6.md,,Martyrs,6. Martyrs,6,fire.jpg,6-Martyrs,,,[6],"---
+,6,22.11,2024-11-22-6.md,Forschungsmethoden,Daten-Scraping,Sozial-Media-Inhalte herunterladen,6. Forschungsmethoden: Daten-Scraping,6,instagram-thread.jpg,6-Daten-Scraping,,,[6],"---
 layout: post
 session: 6
 tags: [6]
 level: overview
 ---"
-,7,27.11,2023-11-27-7.md,,East & West,7. East & West,7,pebble-beach.jpg,7-East-West,,,[7],"---
+,7,29.11,2024-11-29-7.md,Forschungsmethoden,Inhaltsanalyse & Medienanalyse,"Fragestellungen, Codieren, Bewerten",7. Forschungsmethoden: Inhaltsanalyse & Medienanalyse,7,instagram-thread.jpg,7-Inhaltsanalyse-Medienanalyse,roesslerWozuQuantitativeStandardisierte2017,,[7],"---
 layout: post
 session: 7
 tags: [7]
 level: overview
 ---"
-,8,04.12,2023-12-04-8.md,,Rabbis,8. Rabbis,8,tallit.jpg,8-Rabbis,,,[8],"---
+,8,06.12,2024-12-06-8.md,Religiöse Autorität,Religiöse Autorität im digitalen Raum (1),"Akteure und Diskurse (Pluralisierung, Herausforderung, Neukonstituierung)",8. Religiöse Autorität: Religiöse Autorität im digitalen Raum (1),8,instagram-thread.jpg,8-Religiöse-Autorität-im-digitalen-Raum-(1),alatasMediatingAuthoritySufi2022,,[8],"---
 layout: post
 session: 8
 tags: [8]
 level: overview
 ---"
-,9,11.12,2023-12-11-9.md,,A New Prophet,9. A New Prophet,9,crescent-moon.jpg,9-A-New-Prophet,,,[9],"---
+,9,13.12,2024-12-13-9.md,Religiöse Autorität,Religiöse Autorität im digitalen Raum (2),"Mechanismen der Autorisierung, Quellenbezüge, Narrative",9. Religiöse Autorität: Religiöse Autorität im digitalen Raum (2),9,instagram-thread.jpg,9-Religiöse-Autorität-im-digitalen-Raum-(2),latifMuslimAmericanCyber2018,,[9],"---
 layout: post
 session: 9
 tags: [9]
 level: overview
 ---"
-,10,18.12,2023-12-18-10.md,,A New Community,10. A New Community,10,dome-of-the-rock.jpg,10-A-New-Community,,,[10],"---
+,10,20.12,2024-12-20-10.md,Religiöse Autorität,Digitale Religionen & Identität (1),,10. Religiöse Autorität: Digitale Religionen & Identität (1),10,instagram-thread.jpg,10-Digitale-Religionen-Identität-(1),aeschbachWhatBritishMuslimsReallyThink2017,,[10],"---
 layout: post
 session: 10
 tags: [10]
 level: overview
 ---"
-,11,08.01,2024-01-08-11.md,,Rules & Rulers,11. Rules & Rulers,11,palace-ceiling.jpg,11-Rules-Rulers,,,[11],"---
+,11,17.01,2025-01-17-11.md,Religiöse Autorität,Digitale Religionen & Identität (2),"Gender, Feminismus, queere Religion",11. Religiöse Autorität: Digitale Religionen & Identität (2),11,instagram-thread.jpg,11-Digitale-Religionen-Identität-(2),petersonUnrulySoulsDigital2022,,[11],"---
 layout: post
 session: 11
 tags: [11]
 level: overview
 ---"
-,12,15.01,2024-01-15-12.md,,Tradition,12. Tradition,12,leaf.jpg,12-Tradition,,,[12],"---
+,12,24.01,2025-01-24-12.md,Pluralität,Interreligiöser Dialog,"Institutionen, Akteure, Diskurse",12. Pluralität: Interreligiöser Dialog,12,instagram-thread.jpg,12-Interreligiöser-Dialog,,,[12],"---
 layout: post
 session: 12
 tags: [12]
 level: overview
 ---"
-,13,22.01,2024-01-22-13.md,,A Common Language,13. A Common Language,13,ox-bodl-laud-or-258-fol-10b.jpg,13-A-Common-Language,,,[13],"---
+,13,31.01,2025-01-31-13.md,Pluralität,Erinnerung & Pluralität (1),Allianzen und Konflikte ,13. Pluralität: Erinnerung & Pluralität (1),13,instagram-thread.jpg,13-Erinnerung-Pluralität-(1),battegayNeverForgetRepraesentationDeutungsmacht2023,,[13],"---
 layout: post
 session: 13
 tags: [13]
 level: overview
 ---"
-,14,29.01,2024-01-29-14.md,,Converted Conquerors,14. Converted Conquerors,14,horse.jpg,14-Converted-Conquerors,,,[14],"---
+,14,07.02,2025-02-07-14.md,Pluralität,Erinnerung & Pluralität (2),Allianzen und Konflikte,14. Pluralität: Erinnerung & Pluralität (2),14,instagram-thread.jpg,14-Erinnerung-Pluralität-(2),tsuriaUnderstandingJewishDigital2018,,[14],"---
 layout: post
 session: 14
 tags: [14]
 level: overview
 ---"
-,15,05.02,2024-02-05-15.md,,Perceptions,15. Perceptions,15,carpet_ed.jpg,15-Perceptions,,,[15],"---
+,15,14.02,2025-02-14-15.md,,Rückblick,,15. Rückblick,15,instagram-thread.jpg,15-Rückblick,,,[15],"---
 layout: post
 session: 15
 tags: [15]

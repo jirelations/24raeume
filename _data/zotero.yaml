@@ -1,475 +1,2111 @@
 ---
 references:
-- id: assmannMonotheismCurseBlessing2018a
+- id: aeschbachWhatBritishMuslimsReallyThink2017
+  abstract: >-
+    In the discursive construction of intra-national sameness, religious
+    identity is often a key criterion for inclusion or exclusion from the
+    imagined national community. In today’s Europe, the boundaries of individual
+    nations are increasingly secured by applying a logic characteristic of
+    Islamophobia and cultural racism. Therefore, the negotiation of Muslim
+    identity and its intersection with the respective national identity category
+    is of particular interest. In this study, the Twitter hashtag
+    #WhatBritishMuslimsReallyThink was examined in order to analyze how members
+    of the British Muslim digital community both construct and reinforce their
+    collective identity as well as employ discursive strategies to negotiate
+    British national identity and their national belonging in the face of
+    exclusionary political rhetoric. Drawing on a corpus of 480 tweets
+    containing the hashtag #WhatBritishMuslimsReallyThink, a mixed-method
+    content analysis approach was employed to analyze the topics and strategies
+    present in the hashtag discourse. Thereby, the issues addressed and the
+    strategies of belonging employed in the Twitter conversation are embedded in
+    a larger public discourse on British national identity and intra-national
+    boundary making. This research investigates Twitter as a site of national
+    and religious identity construction and sheds light on the contested nature
+    of such identity categories.
   accessed:
     - year: 2023
       month: 10
-      day: 20
+      day: 10
   author:
-    - family: Assmann
-      given: Jan
-  citation-key: assmannMonotheismCurseBlessing2018a
-  collection-number: '9'
-  collection-title: Routledge research in religion and education
-  container-title: >-
-    Public theology, religious diversity, and interreligious learning:
-    Contributing to the common good through religious education
-  DOI: 10.11588/propylaeumdok.00005462
+    - family: Aeschbach
+      given: Mirjam
+  citation-key: aeschbachWhatBritishMuslimsReallyThink2017
+  container-title: Zeitschrift für junge Religionswissenschaft
+  DOI: 10.4000/zjr.896
+  ISSN: 1862-5886
+  issue: '12'
+  issued:
+    - year: 2017
+      month: 1
+      day: 10
+  language: en
+  license: https://creativecommons.org/licenses/by/4.0/
+  number: '12'
+  publisher: Zeitschrift für junge Religionswissenschaft
+  source: journals.openedition.org
+  title: '#WhatBritishMuslimsReallyThink'
+  type: article-journal
+  URL: https://journals.openedition.org/zjr/896
+
+- id: alatasMediatingAuthoritySufi2022
+  accessed:
+    - year: 2024
+      month: 10
+      day: 15
+  author:
+    - family: Alatas
+      given: Ismail Fajrie
+  citation-key: alatasMediatingAuthoritySufi2022
+  container-title: 'Cyber Muslims: Mapping Islamic Digital Media in the Internet Age'
+  DOI: 10.5040/9781350233737
+  edition: '1'
   editor:
-    - family: Pirner
-      given: Manfred L.
-    - family: Lähnemann
-      given: Johannes
-    - family: Haussmann
-      given: Werner
-    - family: Schwarz,
-      given: Susanne
-  event-place: New York ; London
+    - family: Rozehnal
+      given: Robert
+  event-place: London
+  ISBN: 978-1-350-23373-7 978-1-350-23370-6
+  issued:
+    - year: 2022
+  language: en
+  page: 51-66
+  publisher: Bloomsbury Academic
+  publisher-place: London
+  source: DOI.org (Crossref)
+  title: 'Mediating Authority: A Sufi Shaykh in Multiple Media'
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363266/CourseNode/93668888136198/08-Alatas+-+2022+-+Mediating+Authority+A+Sufi+Shaykh+in+Multiple+Med.pdf
+
+- id: battegayNeverForgetRepraesentationDeutungsmacht2023
+  abstract: >-
+    Article #NeverForget was published on June 1, 2023 in the journal Yearbook
+    for European Jewish Literature Studies (volume 10, issue 1).
+  accessed:
+    - year: 2024
+      month: 10
+      day: 7
+  author:
+    - family: Battegay
+      given: Caspar
+  citation-key: battegayNeverForgetRepraesentationDeutungsmacht2023
+  container-title: Yearbook for European Jewish Literature Studies
+  DOI: 10.1515/yejls-2023-0004
+  ISSN: 2196-6257
+  issue: '1'
+  issued:
+    - year: 2023
+      month: 6
+      day: 1
+  language: de
+  page: 41-55
+  publisher: De Gruyter
+  source: www-degruyter-com.proxy.ub.uni-frankfurt.de
+  title: >-
+    #NeverForget: Repräsentation, Deutungsmacht und Literarizität auf
+    ‚3G-Twitter‘
+  title-short: '#NeverForget'
+  type: article-journal
+  URL: >-
+    https://www-degruyter-com.proxy.ub.uni-frankfurt.de/document/doi/10.1515/yejls-2023-0004/html
+  volume: '10'
+
+- id: beckerProductionSalafiSpaces2021
+  abstract: >-
+    Abstract The concept or notion of ‘digital religion’ has gained traction in
+    recent years in the study of the intersection of media and religion. In this
+    paper, I argue that this concept tends to reify ‘religion’ as a unique, sui
+    generis phenomenon, disregarding decades-long debates about the idea of
+    ‘religion’ in the study of religion. After deconstructing the notion of
+    ‘digital religion’, as put forward in an essay by Stewart Hoover and Nabil
+    Echchaibi (2014), I propose a social theory perspective of (digital) space,
+    drawing mainly from the sociology of space and taking into account
+    affordances and the citational nature of signifying practices. In the final
+    section, I apply this approach to data I gathered during fieldwork online
+    and offline among Salafi Muslims in the Netherlands and Germany from 2008
+    until 2015; this will showcase the potential not only for abstaining from
+    ‘religionizing’ social phenomena but also of a social theory approach to the
+    production of digital spaces.
+  accessed:
+    - year: 2024
+      month: 10
+      day: 7
+  author:
+    - family: Becker
+      given: Carmen
+  citation-key: beckerProductionSalafiSpaces2021
+  container-title: Journal of Religion, Media and Digital Culture
+  DOI: 10.1163/21659214-bja10033
+  ISSN: 2165-9214, 2588-8099
+  issue: '1'
+  issued:
+    - year: 2021
+      month: 8
+      day: 6
+  language: eng
+  page: 30-49
+  publisher: Brill
+  source: brill-com.proxy.ub.uni-frankfurt.de
+  title: >-
+    The Production of Salafi Spaces in Computer-mediated Environments: A Social
+    Theory Perspective on ‘Digital Religion’
+  title-short: The Production of Salafi Spaces in Computer-mediated Environments
+  type: article-journal
+  URL: https://brill.com/view/journals/rmdc/10/1/article-p30_30.xml
+  volume: '10'
+
+- id: bickAchFriedlichenMuslime2021
+  abstract: "Anhand der Konstruktion aus ách so + ADJ + SUBST (kurz: ách so-Konstruktion) veranschaulicht der Aufsatz die Herausforderungen und Möglichkeiten, die sich bei der Suche nach Hate Speech ergeben. Ein eigens für das Projekt XPEROHS erstelltes Korpus, bestehend aus Facebook- und Twitter-Daten, ermöglicht unter anderem aufgrund seiner umfassenden Annotation eine genaue Suche nach verschiedenen Einheiten und Kombinationen wie auch eine quantitative Analyse. So zeigt sich für die ách so-Konstruktion beispielsweise, dass auf ironisierende Weise vor allem allgemeine Gruppen wie Ausländer*innen, Migrant*innen und Flüchtlinge ebenso wie spezifischere Gruppen wie Muslime bzw. Moslems, Palästinenser*innen, Kurd*innen oder Juden bzw. Jüdinnen verunglimpft werden und ihnen die in der Konstruktion verwendeten (positiven) Attribute abgesprochen werden, so z.\_B. die Friedlichkeit im Fall von die ách so friedlichen Muslime."
+  accessed:
+    - year: 2024
+      month: 10
+      day: 7
+  author:
+    - family: Bick
+      given: Eckhard
+    - family: Geyer
+      given: Klaus
+    - family: Kleene
+      given: Andrea
+  citation-key: bickAchFriedlichenMuslime2021
+  container-title: >-
+    Hate Speech - Multidisziplinäre Analysen und Handlungsoptionen: Theoretische
+    und empirische Annäherungen an ein interdisziplinäres Phänomen
+  DOI: 10.1007/978-3-658-31793-5_5
+  editor:
+    - family: Wachs
+      given: Sebastian
+    - family: Koch-Priewe
+      given: Barbara
+    - family: Zick
+      given: Andreas
+  event-place: Wiesbaden
+  ISBN: 978-3-658-31793-5
+  issued:
+    - year: 2021
+  language: de
+  page: 81-103
+  publisher: Springer Fachmedien
+  publisher-place: Wiesbaden
+  source: Springer Link
+  title: >-
+    „Die ách so friedlichen Muslime“: Eine korpusbasierte Untersuchung von
+    Formulierungsmustern fremdenfeindlicher Aussagen in Sozialen Medien
+  title-short: „Die ách so friedlichen Muslime“
+  type: chapter
+  URL: >-
+    https://link-springer-com.proxy.ub.uni-frankfurt.de/chapter/10.1007/978-3-658-31793-5_5
+
+- id: blumeMaechteDahinterAntisemitische2021
+  abstract: >-
+    Verschwörungsmythen im Allgemeinen und Antisemitismus im Speziellen sind
+    langlebig und hinsichtlich ihrer Medialität, in welcher sie artikuliert
+    werden, wandlungs- und anpassungsfähig wie ein Chamäleon. In der Gegenwart,
+    unter den Bedingungen der Digitalität, können sich antisemitische
+    Verschwörungsmythen in noch nie dagewesener Geschwindigkeit auf
+    Videoplattformen und in sozialen Medien verbreiten und multiplizieren. Das
+    Internet ist dabei »Katalysator für einen wiedererstarkenden Antisemitismus«
+    einer vermehrt online radikalisierten Gesellschaft. (Empfehlungs-)
+    Algorithmen, die Bildung von Filterblasen und Echokammern sind fruchtbarer
+    Nährboden für die Verbreitung von antisemitischen Verschwörungsmythen unter
+    dem Schutzmantel der Anonymität im Social Web.
+  accessed:
+    - year: 2024
+      month: 10
+      day: 7
+  author:
+    - family: Blume
+      given: Michael
+    - family: Hellberg
+      given: Florian
+    - family: Kerber
+      given: Ulf
+  citation-key: blumeMaechteDahinterAntisemitische2021
+  container-title: Zeitschrift für christlich-jüdische Begegnung im Kontext
+  DOI: 10.25786/ZFBEG.V0I01-02.767
+  issued:
+    - year: 2021
+      month: 9
+      day: 22
+  language: de
+  page: S. 76-83. Seiten
+  publisher: Zeitschrift für christlich-jüdische Begegnung im Kontext
+  source: DOI.org (Datacite)
+  title: »Die Mächte dahinter« Antisemitische Verschwörungsmythen im Social Web
+  type: article-journal
+  URL: https://zfbeg.org/ojs/index.php/cjbk/article/view/767/1141
+
+- id: boehnkeSpurenDigitalerArtikulationen2022
+  abstract: >-
+    Scheinbar unablässig wird in den Sozialen Medien gepostet und geliked.
+    Soziale Medien fungieren als Orte informeller und direkter Kommunikation
+    sowie Interaktion, an denen neue kulturelle Ausdrucksformen verhandelt und
+    weitergetragen werden. Hier zeigt sich eine derart komplexe Gemengelage
+    unterschiedlichster und zugleich aufeinander bezogener digitaler
+    Mediennutzungspraktiken, dass die theoretische Annäherung an die
+    Überschüssigkeit sozialer Praktiken in Sozialen Medien nur im Denken eines
+    Entzugs stattfinden kann.  Ausgehend von der Interdependenz von Aisthesis,
+    Artikulation und Technik unternehmen die Beiträger*innen des Bandes
+    Versuche, die Spuren kultureller Bildungs- und Transformationsprozesse in
+    Sozialen Medien aus unterschiedlichen disziplinären Perspektiven
+    (auf-)zulesen.
+  accessed:
+    - year: 2024
+      month: 10
+      day: 15
+  citation-key: boehnkeSpurenDigitalerArtikulationen2022
+  collection-title: Digitale Gesellschaft
+  DOI: 10.14361/9783839459744
+  edition: '1'
+  editor:
+    - family: Böhnke
+      given: Nick
+    - family: Richter
+      given: Christoph
+    - family: Schröder
+      given: Christoph
+    - family: Ide
+      given: Martina
+    - family: Allert
+      given: Heidrun
+  event-place: Bielefeld, Germany
+  ISBN: 978-3-8376-5974-0 978-3-8394-5974-4
+  issued:
+    - year: 2022
+      month: 10
+      day: 19
+  language: de
+  license: https://creativecommons.org/licenses/by/4.0/
+  publisher: transcript Verlag
+  publisher-place: Bielefeld, Germany
+  source: DOI.org (Crossref)
+  title: >-
+    Spuren digitaler Artikulationen: Interdisziplinäre Annäherungen an Soziale
+    Medien als kultureller Bildungsraum
+  title-short: Spuren digitaler Artikulationen
+  type: book
+  URL: https://www.transcript-open.de/isbn/5974
+  volume: '44'
+
+- id: brodthageZwischenLifestyleGaming2024
+  author:
+    - family: Brodthage
+      given: Markus
+  citation-key: brodthageZwischenLifestyleGaming2024
+  container-title: 'Religion auf Instagram: Analysen und Perspektiven'
+  edition: 1st ed
+  editor:
+    - family: Pirker
+      given: Viera
+    - family: Paschke
+      given: Paula
+  event-place: München
+  ISBN: 978-3-451-83083-9
+  issued:
+    - year: 2024
+  language: ger
+  page: 137-153
+  publisher: Herder Verlag
+  publisher-place: München
+  source: K10plus ISBN
+  title: >-
+    Zwischen Lifestyle, Gaming und Beauty: Wie Top-Influencersinnen auf
+    Instagram (und YouTube) über Religion sprechen
+  type: chapter
+
+- id: bucherAffordancesSocialMedia2018
+  accessed:
+    - year: 2024
+      month: 10
+      day: 7
+  author:
+    - family: Bucher
+      given: Taina
+    - family: Helmond
+      given: Anne
+  citation-key: bucherAffordancesSocialMedia2018
+  container-author:
+    - family: Burgess
+      given: Jean
+    - family: Marwick
+      given: Alice
+    - family: Poell
+      given: Thomas
+  container-title: The SAGE Handbook of Social Media
+  DOI: 10.4135/9781473984066.n14
+  event-place: "1 Oliver's Yard,\_55 City Road\_London\_EC1Y 1SP"
+  ISBN: 978-1-4129-6229-2 978-1-4739-8406-6
+  issued:
+    - year: 2018
+  page: 233-253
+  publisher: SAGE Publications Ltd
+  publisher-place: "1 Oliver's Yard,\_55 City Road\_London\_EC1Y 1SP"
+  source: DOI.org (Crossref)
+  title: The Affordances of Social Media Platforms
+  type: chapter
+  URL: >-
+    https://sk-sagepub-com.proxy.ub.uni-frankfurt.de/reference/the-sage-handbook-of-social-media/i1867.xml
+
+- id: buntHashtagIslamHow2018
+  author:
+    - family: Bunt
+      given: Gary R.
+  citation-key: buntHashtagIslamHow2018
+  event-place: Chapel Hill
+  ISBN: 978-1-4696-4315-1
+  issued:
+    - year: 2018
+  number-of-pages: xiii, 214 Seiten
+  publisher: The University of North Carolina Press
+  publisher-place: Chapel Hill
+  source: COinS
+  title: >-
+    Hashtag Islam : how cyber-Islamic environments are transforming religious
+    authority
+  title-short: Hashtag Islam
+  type: book
+
+- id: buntIslamicAlgorithmsOnline2024
+  abstract: >-
+    This book examines how Islam is digitally mediated across devices and
+    contexts, in a constantly shifting framework of technological change,
+    enhanced access and digital literacy, and proactive engagement in Islamic
+    online content by authorities and influencers.
+                What is the impact of this on societies, believers, and understandings of Islam? Islamic Algorithms provides a thorough exploration of cyber Islamic environments (CIEs) through representations of significant historical and religious influences across contexts and diversities. This ranges from jinn and angels through to contemporary influencers. Influence is built and developed across and within categories of interpretation, context, origins, and historical patterns - from the emergence of the Qur'an through to Islamic expansion in space and time. This includes the power dynamics of CIEs, incorporating a range of specific influences and ideas explored in Allah Algorithms. Religious authority and influence take multifarious forms, with underlying archetypal patterns that can relate to context and combinations of other factors and influences - traditional, historical, legalistic, cultural, genealogical, linguistic, interpretative and, in contemporary contexts - technological.
+                Islamic Algorithms raises issues of how digital content is embedded in contemporary understandings of Islam and their dissemination. Gary Bunt shows how perceptions of pivotal figures in Islam are informed by new generations of digital influences, which present a primary source of information and dissemination within younger Muslim demographics, with user expectations commensurate with other areas of online expression – such as apps, interactivity, and peer networking.
+  accessed:
+    - year: 2024
+      month: 10
+      day: 7
+  author:
+    - family: Bunt
+      given: Gary R.
+  citation-key: buntIslamicAlgorithmsOnline2024
+  DOI: 10.5040/9781350418295
+  edition: '1'
+  ISBN: 978-1-350-41829-5 978-1-350-41826-4
+  issued:
+    - year: 2024
+  publisher: Bloomsbury Publishing Plc
+  source: DOI.org (Crossref)
+  title: 'Islamic Algorithms: Online Influence in the Muslim Metaverse'
+  title-short: Islamic Algorithms
+  type: book
+  URL: https://www.bloomsburycollections.com/monograph?docid=b-9781350418295
+
+- id: burgessSAGEHandbookSocial2018
+  abstract: >-
+    In terms of media and communication history, we are arguably in the midst of
+    a social media paradigm. Well-known platforms like Twitter and Facebook have
+    gone from being viewed as mere sites of teenage distraction to becoming
+    embedded ICT infrastructure in mainstream organisations across the society,
+    culture, and economy; such platforms, their uses, and their politics are
+    increasingly entangled with everyday life, work, and relationships. For the
+    past decade there has been a burgeoning interest in social media. This
+    highly international Handbook addresses the most significant research
+    themes, methodological approaches and debates in this field via substantial
+    chapters specially commissioned from leading scholars coming from a range of
+    disciplinary perspectives centered on but extending beyond the social
+    sciences and humanities. Part One: Histories and Pre-Histories ..
+  citation-key: burgessSAGEHandbookSocial2018
+  editor:
+    - family: Burgess
+      given: Jean
+    - family: Marwick
+      given: Alice Emily
+    - family: Poell
+      given: Thomas
+  event-place: Los Angeles
+  ISBN: 978-1-4739-8406-6
   issued:
     - year: 2018
   language: eng
-  license: info:eu-repo/semantics/openAccess
-  page: 94-104
-  publisher: Routledge
-  publisher-place: New York ; London
-  title: Monotheism – curse or blessing?
-  type: chapter
-  URL: https://archiv.ub.uni-heidelberg.de/propylaeumdok/5462/
-  volume: '9'
+  note: 'OCLC: 1012197009'
+  publisher: SAGE Publications
+  publisher-place: Los Angeles
+  source: Open WorldCat
+  title: The SAGE handbook of social media
+  type: book
 
-- id: beckingBoundariesIsraeliteMonotheism2008a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Becking
-      given: Bob
-  citation-key: beckingBoundariesIsraeliteMonotheism2008a
-  container-title: >-
-    The Boundaries of Monotheism: Interdisciplinary Explorations into the
-    Foundations of Western Monotheism
-  editor:
-    - family: Haardt
-      given: Maaike
-      non-dropping-particle: de
-    - family: Korte
-      given: Anna-Marie J. A. C. M.
-  event-place: Boston
-  ISBN: 978-90-474-2663-9
-  issued:
-    - year: 2008
-  language: en
-  page: 9-27
-  publisher: Brill
-  publisher-place: Boston
-  source: ProQuest Ebook Central
-  title: The boundaries of Israelite monotheism
-  type: chapter
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D467608
-
-- id: chatelioncounetDivineMessiahEarly2008a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Chatelion Counet
-      given: Patrick
-  citation-key: chatelioncounetDivineMessiahEarly2008a
-  container-title: >-
-    The Boundaries of Monotheism: Interdisciplinary Explorations into the
-    Foundations of Western Monotheism
-  editor:
-    - family: Haardt
-      given: Maaike
-      non-dropping-particle: de
-    - family: Korte
-      given: Anna-Marie J. A. C. M.
-  event-place: Boston
-  ISBN: 978-90-474-2663-9
-  issued:
-    - year: 2008
-  language: en
-  page: 28-52
-  publisher: Brill
-  publisher-place: Boston
-  source: ProQuest Ebook Central
-  title: 'The divine Messiah: Early Jewish monotheism and the New Testament'
-  type: chapter
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D467608
-
-- id: collinsKingMessiahSon2011a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Collins
-      given: John J
-  citation-key: collinsKingMessiahSon2011a
-  container-title: Reconsidering the Concept of Revolutionary Monotheism
-  editor:
-    - family: Pongratz-Leisten
-      given: Beate
-  event-place: Winona Lake
-  ISBN: 978-1-57506-648-6
-  issued:
-    - year: 2011
-  language: en
-  page: 291-316
-  publisher: Pennsylvania State University Press
-  publisher-place: Winona Lake
-  source: ProQuest Ebook Central
-  title: King and Messiah as Son of God
-  type: chapter
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3155622
-
-- id: dehaardtBoundariesMonotheismInterdisciplinary2008c
+- id: campbellContextualizingCurrentDigital2020
   abstract: >-
-    What is the significance of monotheism in modern western culture, taking
-    into account both its problematic and promising aspects? Biblical texts and
-    the biblical faith traditions bear a continuous, polemical tension between
-    exclusive and inclusive perceptions and interpretations of monotheism.
-    Western monotheism proves itself to be multi-significant and heterogeneous,
-    producing boundary-setting as well as boundary-crossing tendencies, is the
-    common thesis of the authors of this book, who have been collectively
-    debating this theme for two years in an interdisciplinary scholarly setting.
-    Their contributions range from the fields of biblical and religious studies,
-    history and philosophy of religion, systematic theology, to gender studies
-    in theology and religion.The authors also explain the particular
-    contribution of their own theological discipline to these debates.
+    This article provides an overview of contemporary research within the
+    interdisciplinary arc of scholarship known as digital religion studies, in
+    which scholars explore the intersection between emerging digital
+    technologies, lived and material religious practices in contemporary
+    culture, and the impact the structures of the network society have on
+    understandings of spirituality and religiosity. Digital religion studies
+    specifically investigates how online and offline religious spaces and
+    practices have become bridged, blended, and blurred as religious groups and
+    practitioners seek to integrate their religious lives with technology use
+    within different aspects of digital culture.
   accessed:
     - year: 2023
       month: 10
-      day: 20
-  citation-key: dehaardtBoundariesMonotheismInterdisciplinary2008c
-  editor:
-    - family: Haardt
-      given: Maaike
-      non-dropping-particle: de
-    - family: Korte
-      given: Anna-Marie J. A. C. M.
-  event-place: Boston
-  ISBN: 978-90-474-2663-9
-  issued:
-    - year: 2008
-  language: en
-  publisher: Brill
-  publisher-place: Boston
-  source: ProQuest Ebook Central
-  title: >-
-    The Boundaries of Monotheism: Interdisciplinary Explorations into the
-    Foundations of Western Monotheism
-  title-short: The Boundaries of Monotheism
-  type: book
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D467608
-
-- id: gnuseNoOtherGods1997a
-  abstract: >-
-    This is the first full-scale assessment of the theological, social and
-    ideational implications of our new understandings of ancient Israel's social
-    and religious development. Scholars now stress the gradual emergence of
-    Israel out of the culture of ancient Palestine and the surrounding ancient
-    Near East rather than contrast Israel with the ancient world. Our new
-    paradigms stress the ongoing and unfinished nature of the monotheistic
-    'revolution', which is indeed still in process today. Gnuse takes a further
-    bold step in setting the emergence of monotheism in a wider intellectual
-    context: he argues brilliantly that the interpretation of Israel's
-    development as both an evolutionary and revolutionary process corresponds to
-    categories of contemporary evolutionary thought in the biological and
-    palaeontological sciences (Punctuated Equilibrium).
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
+      day: 10
   author:
-    - family: Gnuse
-      given: Robert Karl
-  citation-key: gnuseNoOtherGods1997a
-  event-place: London, UNITED KINGDOM
-  ISBN: 978-0-567-37415-8
-  issued:
-    - year: 1997
-  publisher: Bloomsbury Publishing Plc
-  publisher-place: London, UNITED KINGDOM
-  source: ProQuest Ebook Central
-  title: 'No Other Gods: Emergent Monotheism in Israel'
-  title-short: No Other Gods
-  type: book
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D436625
-
-- id: langMonotheismus1998a
-  author:
-    - family: Lang
-      given: Bernard
-  call-number: '2'
-  citation-key: langMonotheismus1998a
-  collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
-  container-title: Handbuch religionswissenschaftlicher Grundbegriffe
-  editor:
-    - family: Cancik
-      given: Hubert
-    - family: Gladigow
-      given: Burkhard
-    - family: Kohl
-      given: Karl-Heinz
-  event-place: Stuttgart
-  ISBN: 978-3-17-010531-7 978-3-17-009553-3 978-3-17-009554-0 978-3-17-009555-7
-  issued:
-    - year: 1998
-  language: de
-  number-of-volumes: '5'
-  page: 148-165
-  publisher: W. Kohlhammer
-  publisher-place: Stuttgart
-  source: BnF ISBN
-  title: Monotheismus
-  type: chapter
-  URL: >-
-    https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/wn4eAAAAMAAJ?hl=de&gbpv=1&pg=PA148&printsec=frontcover
-  volume: '4'
-
-- id: markschiesPriceMonotheismNew2010a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Markschies
-      given: Christoph
-  citation-key: markschiesPriceMonotheismNew2010a
-  container-title: One God
-  DOI: 10.1017/CBO9780511730115.007
-  editor:
-    - family: Mitchell
-      given: Stephen
-    - family: Van Nuffelen
-      given: Peter
-  event-place: Cambridge
-  ISBN: 978-0-511-73011-5
-  issued:
-    - year: 2010
-  page: 100-111
-  publisher: Cambridge University Press
-  publisher-place: Cambridge
-  source: DOI.org (Crossref)
-  title: >-
-    The price of monotheism: Some new observations on a current debate about
-    late antiquity
-  title-short: The price of monotheism
-  type: chapter
-  URL: >-
-    https://www.cambridge.org/core/product/identifier/CBO9780511730115A013/type/book_part
-
-- id: mcgrathOnlyTrueGod2009a
-  abstract: >-
-    Monotheism is a powerful religious concept shaped by competing ideas and the
-    problems they raised. Surveying New Testament writings and Jewish sources
-    from before and after the rise of Christianity, James F. McGrath argues that
-    even the most developed Christologies in the New Testament fit within the
-    context of first century Jewish monotheism. McGrath pinpoints when the
-    parting of ways took place over the issue of God's oneness, and explores
-    philosophical ideas such as "creation out of nothing" which caused Jews and
-    Christians to develop differing concepts and definitions about God.
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: McGrath
-      given: James F.
-  citation-key: mcgrathOnlyTrueGod2009a
-  event-place: Champaign, UNITED STATES
-  ISBN: 978-0-252-09189-6
-  issued:
-    - year: 2009
-  publisher: University of Illinois Press
-  publisher-place: Champaign, UNITED STATES
-  source: ProQuest Ebook Central
-  title: 'The Only True God: Early Christian Monotheism in Its Jewish Context'
-  title-short: The Only True God
-  type: book
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3414053
-
-- id: pongratz-leistenNewAgendaStudy2011a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Pongratz-Leisten
-      given: Beate
-  citation-key: pongratz-leistenNewAgendaStudy2011a
-  container-title: Reconsidering the Concept of Revolutionary Monotheism
-  editor:
-    - family: Pongratz-Leisten
-      given: Beate
-  event-place: Winona Lake
-  ISBN: 978-1-57506-648-6
-  issued:
-    - year: 2011
-  language: en
-  page: 1-40
-  publisher: Pennsylvania State University Press
-  publisher-place: Winona Lake
-  source: ProQuest Ebook Central
-  title: A New Agenda for the Study of the Rise of Monotheism
-  type: chapter
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3155622
-
-- id: pongratz-leistenReconsideringConceptRevolutionary2011a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  citation-key: pongratz-leistenReconsideringConceptRevolutionary2011a
-  editor:
-    - family: Pongratz-Leisten
-      given: Beate
-  event-place: Winona Lake
-  ISBN: 978-1-57506-648-6
-  issued:
-    - year: 2011
-  language: en
-  publisher: Pennsylvania State University Press
-  publisher-place: Winona Lake
-  source: ProQuest Ebook Central
-  title: Reconsidering the Concept of Revolutionary Monotheism
-  type: book
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3155622
-
-- id: schmidQuestGodMonotheistic2011a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Schmid
-      given: Konrad
-  citation-key: schmidQuestGodMonotheistic2011a
-  container-title: Reconsidering the Concept of Revolutionary Monotheism
-  editor:
-    - family: Pongratz-Leisten
-      given: Beate
-  event-place: Winona Lake
-  ISBN: 978-1-57506-648-6
-  issued:
-    - year: 2011
-  language: en
-  page: 271-290
-  publisher: Pennsylvania State University Press
-  publisher-place: Winona Lake
-  source: ProQuest Ebook Central
-  title: >-
-    The Quest for “God”: Monotheistic Arguments in the Priestly Texts of the
-    Hebrew Bible
-  type: chapter
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3155622
-
-- id: stroumsaIdeaSemiticMonotheism2021a
-  abstract: |-
-    In this work, a sequel to my
-                  A New Science: The Discovery of Religion in an Age of Reason
-                  (Cambridge, MA: Harvard University Press, 2010), I study some major aspects of the scholarly study of religion in the long nineteenth century—from the Enlightenment to the First World War. More precisely, I seek to understand the new status of Judaism and Islam in the formative period of the new discipline. In order to do that, I focus on the concept of Semitic monotheism, a concept developed by Ernest Renan around the mid-nineteenth century, on the basis of the postulated (and highly problematic) contradistinction between Aryan and Semitic families of peoples, cultures, and religions. This contradistinction grew from the Western discovery of Sanskrit and its relationship with European languages, at the time of the Enlightenment and Romanticism. Together with the rise of scholarly Orientalism, this discovery offered new perspectives on the East, as a consequence of which the Near East was demoted, as it were, from its traditional status as the locus of the biblical revelations. The book essentially studies a central issue in the modern study of religion. Doing so, however, it emphasizes that the new dualistic taxonomy of religions had major consequences and sheds new light on the roots of European attitudes to Jews and Muslims in the twentieth century and up to the present day.
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Stroumsa
-      given: Guy G.
-  citation-key: stroumsaIdeaSemiticMonotheism2021a
-  DOI: 10.1093/oso/9780192898685.001.0001
-  edition: '1'
-  event-place: Oxford
-  ISBN: 978-0-19-289868-5 978-0-19-192520-7
-  issued:
-    - year: 2021
-      month: 5
-      day: 20
-  language: en
-  publisher: Oxford University Press
-  publisher-place: Oxford
-  source: DOI.org (Crossref)
-  title: 'The Idea of Semitic Monotheism: The Rise and Fall of a Scholarly Myth'
-  title-short: The Idea of Semitic Monotheism
-  type: book
-  URL: https://doi-org.proxy.ub.uni-frankfurt.de/10.1093/oso/9780192898685.001.0001
-
-- id: stuckenbruckEarlyJewishChristian2004a
-  abstract: >-
-    Early Christology must focus not simply on "historical" but also on
-    theological ideas found in contemporary Jewish thought and practice. In this
-    book, a range of distinguished contributors considers the context and
-    formation of early Jewish and Christian devotion to God alone-the emergence
-    of "monotheism." The idea of monotheism is critically examined from various
-    perspectives, including the history of ideas, Graeco-Roman religions, early
-    Jewish mediator figures, scripture exegesis, and the history of its use as a
-    theological category.The studies explore different ways of conceiving of
-    early Christian monotheism today, asking whether monotheism is a
-    conceptually useful category, whether it may be applied cautiously and with
-    qualifications, or whether it is to be questioned in favor of different
-    approaches to understanding the origins of Jewish and Christian beliefs and
-    worship.This is volume 1 in the Early Christianity in Context series and
-    volume 263 in the Journal for the Study of the New Testament Supplement
-    Series
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Stuckenbruck
-      given: Loren T.
-    - family: North
-      given: Wendy
-  citation-key: stuckenbruckEarlyJewishChristian2004a
-  event-place: London, UNITED KINGDOM
-  ISBN: 978-0-567-42917-9
-  issued:
-    - year: 2004
-  publisher: Bloomsbury Publishing Plc
-  publisher-place: London, UNITED KINGDOM
-  source: ProQuest Ebook Central
-  title: Early Jewish and Christian Monotheism
-  type: book
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D1749447
-
-- id: triggMonotheismReligiousDiversity2020a
-  abstract: >-
-    Cambridge Core - Religion: General Interest - Monotheism and Religious
-    Diversity
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Trigg
-      given: Roger
-  citation-key: triggMonotheismReligiousDiversity2020a
-  collection-title: Elements in Religion and Monotheism
-  DOI: 10.1017/9781108637503
-  event-place: Cambridge
-  ISBN: 978-1-108-63750-3 978-1-108-71445-7
+    - family: Campbell
+      given: Heidi A.
+    - family: Evolvi
+      given: Giulia
+  citation-key: campbellContextualizingCurrentDigital2020
+  container-title: Human Behavior and Emerging Technologies
+  container-title-short: Human Behav and Emerg Tech
+  DOI: 10.1002/hbe2.149
+  ISSN: 2578-1863, 2578-1863
+  issue: '1'
   issued:
     - year: 2020
-      month: 8
+      month: 1
   language: en
-  publisher: Cambridge University Press
-  publisher-place: Cambridge
-  source: www-cambridge-org.proxy.ub.uni-frankfurt.de
-  title: Monotheism and Religious Diversity
+  page: 5-17
+  source: DOI.org (Crossref)
+  title: Contextualizing current digital religion research on emerging technologies
+  type: article-journal
+  URL: >-
+    https://onlinelibrary-wiley-com.proxy.ub.uni-frankfurt.de/doi/pdfdirect/10.1002/hbe2.149
+  volume: '2'
+
+- id: campbellDigitalCreativesRethinking2021
+  abstract: >-
+    "Much speculation was raised in the 1990s, during the first decade of
+    Internet research, about the extent to which online platforms and digital
+    culture might challenge traditional understandings of authority, especially
+    in religious contexts. Digital Creatives and the Rethinking of Religious
+    Authority explores the ways in which religiously-inspired digital media
+    experts and influencers online challenge established religious leaders and
+    those who seek to maintain institutional structures in a world where online
+    and offline religious spaces are increasingly intertwined. In the
+    twenty-first century, the question of how digital culture may be re-shaping
+    notions of whom or what constitutes authority is incredibly important.
+    Questions asked include: Who truly holds religious power and influence in an
+    age of digital media? Is it recognized religious leaders and institutions?
+    Religious digital innovators? Or digital media users? What sources,
+    processes and/or structures can and should be considered authoritative
+    online, and offline? Who is really in control of religious technological
+    innovation? This book reflects on how digital media simultaneously
+    challenges and empowers new and traditional forms of religious authority. It
+    is a gripping read for those with an interest in Communication, Culture
+    Studies, Media Studies, Religion/Religious Studies, Sociology of Religion,
+    Computer-mediated Communication, and Internet/Digital Culture Studies"--
+  author:
+    - family: Campbell
+      given: Heidi
+  call-number: "UBFFM BzG  \t02/BE 2260 C187"
+  citation-key: campbellDigitalCreativesRethinking2021
+  collection-title: Media, religion and culture
+  event-place: London New York
+  ISBN: 978-1-138-37092-0 978-1-138-37097-5
+  issued:
+    - year: 2021
+  language: eng
+  number-of-pages: '226'
+  publisher: Routledge, Taylor & Francis Group
+  publisher-place: London New York
+  source: K10plus ISBN
+  title: Digital creatives and the rethinking of religious authority
+  type: book
+
+- id: campbellIntroductionStudyingJewish2015
+  abstract: >-
+    This introduction presents an overview of key concepts covered in this book.
+    The book collects the work of scholars who are exploring different aspects
+    of the relationship between various Jewish communities and digital culture.
+    Digital Judaism explores how Jewish communities and users of new media
+    negotiate their uses of digital technologies, and broadly takes a religious
+    social-shaping to technology (RSST) approach. It expands attention beyond an
+    interest in just religious websites and internet use to consider how
+    different groups engaging other popular digital media platforms as Facebook,
+    gaming, mobile phones and even mobile application. The book presents the
+    broad analysis of not only how and why various Jewish groups negotiate with
+    digital technologies and culture in particular ways but also how such
+    observations are situated within a wider discourse of the ways in which
+    Jewish groups have utilized communication technologies throughout history to
+    maintain connection and their identity across time and space.
+  author:
+    - family: Campbell
+      given: Heidi A.
+  citation-key: campbellIntroductionStudyingJewish2015
+  container-title: Digital Judaism
+  ISBN: 978-1-315-81859-7
+  issued:
+    - year: 2015
+  number-of-pages: '15'
+  publisher: Routledge
+  title: 'Introduction: Studying Jewish Engagement with Digital Media and Culture'
+  title-short: Introduction
+  type: chapter
+
+- id: campbellSurveyingTheoreticalApproaches2017
+  abstract: >-
+    This article provides an overview of the development of Digital Religion
+    studies and the theoretical approaches frequently employed within this area.
+    Through considering the ways and theories of mediatization, mediation of
+    meaning, and the religious–social shaping of technology have been engaged
+    and applied in studies of new media technologies, religion, and digital
+    culture we see how Digital Religion studies has grown into a unique area of
+    inquiry informed by both Internet studies and media, religion, and culture
+    studies. Overall, it offers a concise summary of the current state of
+    research inquiry within Digital Religion studies.
+  accessed:
+    - year: 2024
+      month: 10
+      day: 7
+  author:
+    - family: Campbell
+      given: Heidi A
+  citation-key: campbellSurveyingTheoreticalApproaches2017
+  container-title: New Media & Society
+  container-title-short: New Media & Society
+  DOI: 10.1177/1461444816649912
+  ISSN: 1461-4448, 1461-7315
+  issue: '1'
+  issued:
+    - year: 2017
+      month: 1
+  language: en
+  page: 15-24
+  source: DOI.org (Crossref)
+  title: Surveying theoretical approaches within digital religion studies
+  type: article-journal
+  URL: >-
+    https://journals-sagepub-com.proxy.ub.uni-frankfurt.de/doi/epub/10.1177/1461444816649912
+  volume: '19'
+
+- id: coalitionforpluralisticpublicdiscoursePublikationenCPPD
+  accessed:
+    - year: 2024
+      month: 10
+      day: 18
+  author:
+    - literal: Coalition for Pluralistic Public Discourse
+  citation-key: coalitionforpluralisticpublicdiscoursePublikationenCPPD
+  language: de
+  title: Publikationen | CPPD
+  type: post-weblog
+  URL: https://cppdnetwork.com/publikationen/
+
+- id: DigitalEnvironmentsEthnographic2017
+  call-number: 303.483 3
+  citation-key: DigitalEnvironmentsEthnographic2017
+  collection-title: Media studies
+  event-place: Bielefeld
+  ISBN: 978-3-8376-3497-6
+  issued:
+    - year: 2017
+  language: en
+  publisher: transcript verlag
+  publisher-place: Bielefeld
+  source: BnF ISBN
+  title: >-
+    Digital environments: ethnographic perspectives across global online and
+    offline spaces
+  title-short: Digital environments
+  type: book
+
+- id: ettlingerSpaceOnlineVirtual2020
+  abstract: >-
+    Space in online virtual worlds only exists as an experience. This chapter
+    explores this experience by seeking to understand the nature of virtual
+    worlds, both online and not online, as well as of the space they seem to
+    create and present. This investigation also engages in an analysis of the
+    nature of virtuality itself, along with the various ways by which it can be
+    understood, the open philosophical questions it appears to address, and the
+    various diverse phenomena it attempts to describe. Accordingly, this chapter
+    delineates the distinct aspects of virtuality and how they each contribute
+    to the formation of online virtual worlds. Finally, it shows the experience
+    of space in online virtual worlds to be the result of a superposition of
+    multiple, separate phenomena, including the creation of pictorial illusions
+    throughout the history of art, the advancements of digital technology and
+    online connectivity, as well as the process of forming mental constructs
+    from the perceptions of objects in the external world and of learned
+    concepts about them – all coalescing into a unified experience.
+  accessed:
+    - year: 2024
+      month: 10
+      day: 15
+  author:
+    - family: Ettlinger
+      given: Or
+  citation-key: ettlingerSpaceOnlineVirtual2020
+  container-title: Handbuch Soziale Praktiken und Digitale Alltagswelten
+  DOI: 10.1007/978-3-658-08357-1_32
+  editor:
+    - family: Friese
+      given: Heidrun
+    - family: Nolden
+      given: Marcus
+    - family: Rebane
+      given: Gala
+    - family: Schreiter
+      given: Miriam
+  event-place: Wiesbaden
+  ISBN: 978-3-658-08357-1
+  issued:
+    - year: 2020
+  language: de
+  page: 39-46
+  publisher: Springer Fachmedien
+  publisher-place: Wiesbaden
+  source: Springer Link
+  title: Space in Online Virtual Worlds
+  type: chapter
+  URL: https://doi.org/10.1007/978-3-658-08357-1_32
+
+- id: evolviIntroductionIslamSpace2021
+  accessed:
+    - year: 2024
+      month: 10
+      day: 7
+  author:
+    - family: Evolvi
+      given: Giulia
+    - family: Giorda
+      given: Maria Chiara
+  citation-key: evolviIntroductionIslamSpace2021
+  container-title: Journal of Religion, Media and Digital Culture
+  DOI: 10.1163/21659214-bja10047
+  ISSN: 2165-9214, 2588-8099
+  issue: '1'
+  issued:
+    - year: 2021
+      month: 8
+      day: 6
+  language: eng
+  page: 1-12
+  publisher: Brill
+  source: brill-com.proxy.ub.uni-frankfurt.de
+  title: 'Introduction: Islam, Space, and the Internet'
+  title-short: Introduction
+  type: article-journal
+  URL: https://brill.com/view/journals/rmdc/10/1/article-p1_1.xml
+  volume: '10'
+
+- id: evolviNousSommesUnisMuslimYouth2019
+  author:
+    - family: Evolvi
+      given: Giulia
+  citation-key: evolviNousSommesUnisMuslimYouth2019
+  collection-title: Religion and transformation in contemporary European society
+  container-title: Prayer, pop and politics researching religious youth in migration society
+  edition: '[1. edition]'
+  editor:
+    - family: Limacher
+      given: K.
+    - family: Mattes
+      given: A.
+    - family: Novak
+      given: C.
+  event-place: Göttingen, [Wien]
+  ISBN: 978-3-8471-0979-2
+  issued:
+    - year: 2019
+  language: English
+  note: 'OCLC: 1100542018'
+  page: 125-144
+  publisher: V&amp;R unipress
+  publisher-place: Göttingen, [Wien]
+  source: Open WorldCat
+  title: >-
+    #NousSommesUnis: Muslim Youth, Hypermediated Internet Spaces, and European
+    Islam
+  type: chapter
+
+- id: evolviReligionInternetDigital2021
+  author:
+    - family: Evolvi
+      given: Giulia
+  citation-key: evolviReligionInternetDigital2021
+  DOI: 10.1007/s41682-021-00087-9
+  issued:
+    - year: 2021
+  language: English
+  title: >-
+    Religion and the internet: digital religion, (hyper)mediated spaces, and
+    materiality
+  title-short: Religion and the internet
+  type: article-journal
+  URL: https://link.springer.com/article/10.1007/s41682-021-00087-9
+
+- id: faulknerAnalysingSocialMedia2018
+  accessed:
+    - year: 2024
+      month: 10
+      day: 7
+  author:
+    - family: Faulkner
+      given: Simon
+    - family: Vis
+      given: Farida
+    - family: D'Orazio
+      given: Francesco
+  citation-key: faulknerAnalysingSocialMedia2018
+  container-author:
+    - family: Burgess
+      given: Jean
+    - family: Marwick
+      given: Alice
+    - family: Poell
+      given: Thomas
+  container-title: The SAGE Handbook of Social Media
+  DOI: 10.4135/9781473984066.n10
+  event-place: "1 Oliver's Yard,\_55 City Road\_London\_EC1Y 1SP"
+  ISBN: 978-1-4129-6229-2 978-1-4739-8406-6
+  issued:
+    - year: 2018
+  page: 160-178
+  publisher: SAGE Publications Ltd
+  publisher-place: "1 Oliver's Yard,\_55 City Road\_London\_EC1Y 1SP"
+  source: DOI.org (Crossref)
+  title: Analysing Social Media Images
+  type: chapter
+  URL: >-
+    https://sk-sagepub-com.proxy.ub.uni-frankfurt.de/reference/the-sage-handbook-of-social-media/i1319.xml
+
+- id: foroutanHybrideIdentitaetenPostmigrantischen2022
+  accessed:
+    - year: 2024
+      month: 10
+      day: 7
+  author:
+    - family: Foroutan
+      given: Naika
+  citation-key: foroutanHybrideIdentitaetenPostmigrantischen2022
+  container-title: Dabeisein und Dazugehören
+  DOI: 10.1007/978-3-658-33785-8_3
+  editor:
+    - family: Uslucan
+      given: Haci-Halil
+    - family: Brinkmann
+      given: Heinz Ulrich
+  event-place: Wiesbaden
+  ISBN: 978-3-658-33784-1 978-3-658-33785-8
+  issued:
+    - year: 2022
+  language: de
+  page: 51-74
+  publisher: Springer Fachmedien Wiesbaden
+  publisher-place: Wiesbaden
+  source: DOI.org (Crossref)
+  title: Hybride Identitäten in der postmigrantischen Gesellschaft
+  type: chapter
+  URL: >-
+    https://link-springer-com.proxy.ub.uni-frankfurt.de/chapter/10.1007/978-3-658-33785-8_3
+
+- id: frieseHandbuchSozialePraktiken2020
+  accessed:
+    - year: 2024
+      month: 10
+      day: 15
+  citation-key: frieseHandbuchSozialePraktiken2020
+  DOI: 10.1007/978-3-658-08357-1
+  editor:
+    - family: Friese
+      given: Heidrun
+    - family: Nolden
+      given: Marcus
+    - family: Rebane
+      given: Gala
+    - family: Schreiter
+      given: Miriam
+  event-place: Wiesbaden
+  ISBN: 978-3-658-08356-4 978-3-658-08357-1
+  issued:
+    - year: 2020
+  language: de
+  license: http://www.springer.com/tdm
+  publisher: Springer Fachmedien
+  publisher-place: Wiesbaden
+  source: DOI.org (Crossref)
+  title: Handbuch Soziale Praktiken und Digitale Alltagswelten
+  type: book
+  URL: http://link.springer.com/10.1007/978-3-658-08357-1
+
+- id: golanIntroductionDigitalYouth2023
+  abstract: >-
+    Public and academic discourse on the online activities of youth have been
+    stormy and ambivalent at times (Lynn Schofield Clark 2013) [...]
+  accessed:
+    - year: 2023
+      month: 10
+      day: 10
+  author:
+    - family: Golan
+      given: Oren
+  citation-key: golanIntroductionDigitalYouth2023
+  container-title: Religions
+  DOI: 10.3390/rel14060704
+  ISSN: 2077-1444
+  issue: '6'
+  issued:
+    - year: 2023
+      month: 6
+  language: en
+  license: http://creativecommons.org/licenses/by/3.0/
+  number: '6'
+  page: '704'
+  publisher: Multidisciplinary Digital Publishing Institute
+  source: www.mdpi.com
+  title: 'Introduction: Digital Youth and Religion'
+  title-short: Introduction
+  type: article-journal
+  URL: https://www.mdpi.com/2077-1444/14/6/704
+  volume: '14'
+
+- id: gonzalez-baqueroConversationIslamTwitter2023
+  abstract: >-
+    Social media, especially Twitter, has become a platform where hate, toxic,
+    intolerant, and discriminatory speech is increasingly spread. These messages
+    are aimed at different vulnerable social groups, due to some of their
+    differentiating characteristics with respect to the dominant one, whether
+    they are phenotypic, religious, cultural, gender, sexual, etc. Of all these
+    minorities, one of the most affected is the Muslim community, especially
+    since the beginning of the Mediterranean refugee crisis, during which
+    migration from the Middle East and North Africa increased considerably.
+    Spain does not escape this reality as, given its proximity to Morocco, it is
+    one of the main destinations for migrants from North Africa. In this
+    context, there are already several studies focused on specifically
+    investigating Islamophobic speech disseminated on social platforms, normally
+    focused on specific cases. However, there are still no studies focused on
+    analyzing the entire conversation around Islam and the Muslim community that
+    takes place on Twitter and in a southern European country such as Spain,
+    aiming to identify the latent sentiments and the main underlying topics and
+    their characteristics, which would help to relativize and dimension the
+    relevance of Islamophobic messages, as well as to analyze them from a more
+    solid base. The main objective of the present study is to identify the most
+    frequent words, the main underlying topics, and the latent sentiments that
+    predominate in the general conversation about Islam and the Muslim community
+    on Twitter in Spain and in Spanish during the last 8 years. To do this,
+    190,320 messages that included keywords related to Muslim culture and
+    religion were collected and analyzed using computational techniques. The
+    findings show that the most frequent words in these messages were mostly
+    descriptive and not derogatory, and the predominant latent topics were
+    mostly neutral and informative, although two of them could be considered
+    reliable indicators of Islamophobic rejection. Similarly, while the overall
+    average sentiment in this conversation trended negatively, neutral and
+    positive messages were more prevalent. However, in the negative messages,
+    the sentiment was considerably more pronounced.
+  accessed:
+    - year: 2024
+      month: 10
+      day: 7
+  author:
+    - family: González-Baquero
+      given: William
+    - family: Amores
+      given: Javier J.
+    - family: Arcila-Calderón
+      given: Carlos
+  citation-key: gonzalez-baqueroConversationIslamTwitter2023
+  container-title: Religions
+  DOI: 10.3390/rel14060724
+  ISSN: 2077-1444
+  issue: '6'
+  issued:
+    - year: 2023
+      month: 6
+  language: en
+  license: http://creativecommons.org/licenses/by/3.0/
+  number: '6'
+  page: '724'
+  publisher: Multidisciplinary Digital Publishing Institute
+  source: www.mdpi.com
+  title: >-
+    The Conversation around Islam on Twitter: Topic Modeling and Sentiment
+    Analysis of Tweets about the Muslim Community in Spain since 2015
+  title-short: The Conversation around Islam on Twitter
+  type: article-journal
+  URL: https://www.mdpi.com/2077-1444/14/6/724
+  volume: '14'
+
+- id: hooverMediaTheoryThird2014
+  accessed:
+    - year: 2024
+      month: 10
+      day: 7
+  author:
+    - family: Hoover
+      given: Stewart M.
+    - family: Echchaibi
+      given: Nabil
+  citation-key: hooverMediaTheoryThird2014
+  issued:
+    - year: 2014
+  title: Media Theory and the “Third Spaces of Digital Religion”
+  type: article
+  URL: >-
+    https://thirdspacesblog.wordpress.com/wp-content/uploads/2014/05/third-spaces-and-media-theory-essay-2-0.pdf
+
+- id: hopkinsConceptAffordancesDigital2020
+  abstract: >-
+    This chapter outlines the origins and meaning of the concept of affordances,
+    presents some examples, and discusses its relevance to studies of digital
+    media. It suggests that the uniquely socially malleable nature of digital
+    media, the variety of uses they engender, and the simultaneous awareness of
+    the limitations of the mediated interaction that they allow, explain the
+    increased use of affordances in analyses of digital media.
+  accessed:
+    - year: 2024
+      month: 10
+      day: 15
+  author:
+    - family: Hopkins
+      given: Julian
+  citation-key: hopkinsConceptAffordancesDigital2020
+  container-title: Handbuch Soziale Praktiken und Digitale Alltagswelten
+  DOI: 10.1007/978-3-658-08357-1_67
+  editor:
+    - family: Friese
+      given: Heidrun
+    - family: Nolden
+      given: Marcus
+    - family: Rebane
+      given: Gala
+    - family: Schreiter
+      given: Miriam
+  event-place: Wiesbaden
+  ISBN: 978-3-658-08357-1
+  issued:
+    - year: 2020
+  language: de
+  page: 47-54
+  publisher: Springer Fachmedien
+  publisher-place: Wiesbaden
+  source: Springer Link
+  title: The Concept of Affordances in Digital Media
+  type: chapter
+  URL: https://doi.org/10.1007/978-3-658-08357-1_67
+
+- id: hoskinsDigitalMemoryStudies2018
+  abstract: >-
+    Digital media, networks and archives reimagine and revitalize individual,
+    social and cultural memory but they also ensnare it, bringing it under new
+    forms of control. Understanding these paradoxical conditions of remembering
+    and forgetting through today's technologies needs bold interdisciplinary
+    interventions. Digital Memory Studies seizes this challenge and pioneers an
+    agenda that interrogates concepts, theories and histories of media and
+    memory studies, to map a holistic vision for the study of the digital
+    remaking of memory. Through the lenses of connectivity, archaeology,
+    economy, and archive, contributors illuminate the uses and abuses of the
+    digital past via an array of media and topics, including television,
+    videogames and social media, and memory institutions, network politics and
+    the digital afterlife
+  author:
+    - family: Hoskins
+      given: Andrew
+  call-number: UBFFM BzG 01/HD 300.749 H826
+  citation-key: hoskinsDigitalMemoryStudies2018
+  event-place: New York
+  ISBN: 978-1-138-63937-9 978-1-138-63938-6
+  issued:
+    - year: 2018
+  language: eng
+  publisher: Routledge
+  publisher-place: New York
+  source: BnF ISBN
+  title: 'Digital memory studies: media pasts in transition'
+  title-short: Digital memory studies
+  type: book
+
+- id: huebscherAntisemitismusSozialenMedien2024
+  abstract: >-
+    Soziale Medien haben die Verbreitung von Antisemitismus revolutioniert.
+    Algorithmisch verstärkt verbreitet sich Antisemitismus auf den Plattformen
+    in Sekundenschnelle, kostenlos und global. Die daraus resultierende Gefahr
+    für Jüdinnen*Juden ist eine große gesellschaftliche Herausforderung. Das
+    Buch gibt Einblicke in Fallstudien auf verschiedenen Plattformen und zeigt,
+    wie soziale Medien durch die Verbreitung antisemitischer Inhalte von
+    politischem Akteur*innen instrumentalisiert werden. Es werden innovative
+    Methoden und Tools (CrowdTangle oder Voyant Tools) und neue Konzepte (Social
+    Media Literacy, tertiärer Antisemitismus, antisemitische Eskalation)
+    vorgestellt und Strategien, um Antisemitismus auf den Plattformen zu
+    bekämpfen, kritisch evaluiert. Dieses Buch bietet eine umfassende Einführung
+    für alle, die sich mit der Problematik Antisemitismus in den sozialen Medien
+    auseinandersetzen wollen.
+  author:
+    - family: Hübscher
+      given: Monika
+    - family: Mering
+      given: Sabine
+      dropping-particle: von
+  citation-key: huebscherAntisemitismusSozialenMedien2024
+  ISBN: 978-3-8474-1950-1
+  issued:
+    - year: 2024
+      month: 6
+      day: 17
+  language: de
+  number-of-pages: '331'
+  publisher: Verlag Barbara Budrich
+  source: Google Books
+  title: Antisemitismus in den Sozialen Medien
   type: book
   URL: >-
-    https://www.cambridge.org/core/elements/monotheism-and-religious-diversity/478BBA8657D04822D85B4C78DCF093AA
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Felibrary.utb.de%2Fdoi%2Fbook%2F10.3224%2F9783847419501
+
+- id: kneidinger-muellerSozialeNetzwerkSeiten2020
+  abstract: >-
+    Soziale Netzwerk Seiten eröffnen neue Möglichkeiten der digitalisierten
+    Beziehungspflege. In diesem Beitrag werden technische und nutzungsbezogene
+    Faktoren diskutiert, die beeinflussen, inwiefern computerbasierte
+    Interaktionen positive oder negative Auswirkungen auf Beziehungsnetzwerke
+    haben.
+  accessed:
+    - year: 2024
+      month: 10
+      day: 15
+  author:
+    - family: Kneidinger-Müller
+      given: Bernadette
+  citation-key: kneidinger-muellerSozialeNetzwerkSeiten2020
+  container-title: Handbuch Soziale Praktiken und Digitale Alltagswelten
+  DOI: 10.1007/978-3-658-08357-1_71
+  editor:
+    - family: Friese
+      given: Heidrun
+    - family: Nolden
+      given: Marcus
+    - family: Rebane
+      given: Gala
+    - family: Schreiter
+      given: Miriam
+  event-place: Wiesbaden
+  ISBN: 978-3-658-08357-1
+  issued:
+    - year: 2020
+  language: de
+  page: 67-73
+  publisher: Springer Fachmedien
+  publisher-place: Wiesbaden
+  source: Springer Link
+  title: Soziale Netzwerk Seiten
+  type: chapter
+  URL: https://doi.org/10.1007/978-3-658-08357-1_71
+
+- id: latifMuslimAmericanCyber2018
+  abstract: >-
+    Over the last half-century, African Americans have been supplanted as the
+    representational face of Islam in America by an immigrant population they
+    initially perceived as obsequious to power and unconcerned with seeking
+    redress to their historical grievances. Recently, however, a widespread
+    cognizance of this strategic miscalculation coupled with the precipitous
+    rise of Islamophobia in the Trump era has younger descendants of Muslim
+    immigrants identifying with the left, combating Islamophobia as a type of
+    racism in intersectional solidarity with other social justice platforms like
+    the Black Lives Matter movement (
+                  blm
+                  ). Thus, when fundamental disagreements emerged at the
+                  ris
+                  conference in late 2016 over endorsing the non-profit
+                  blm
+                  entity, they sparked robust social media debates. This paper analyzes those inter-communal negotiations as they played out on the Facebook pages of Muslim scholars, associating discourse models with contestations of community members negotiating the boundaries involved with integrating the heterogeneous discourses of antiracism.
+  accessed:
+    - year: 2024
+      month: 10
+      day: 7
+  author:
+    - family: Latif
+      given: Jibril
+  citation-key: latifMuslimAmericanCyber2018
+  container-title: Journal of Religion, Media and Digital Culture
+  DOI: 10.1163/25888099-00701005
+  ISSN: 2588-8099, 2165-9214
+  issue: '1'
+  issued:
+    - year: 2018
+      month: 4
+      day: 16
+  page: 67-89
+  source: DOI.org (Crossref)
+  title: >-
+    Muslim American Cyber Contestations between Scholars and Activists Debating
+    Racism, Islamophobia and Black Lives Matter
+  type: article-journal
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363266/CourseNode/93668888136198/09-Latif+-+2018+-+Muslim+American+Cyber+Contestations+between+Schola.pdf
+  volume: '7'
+
+- id: limacherPrayerPopPolitics2019
+  accessed:
+    - year: 2024
+      month: 10
+      day: 18
+  citation-key: limacherPrayerPopPolitics2019
+  collection-title: Religion and transformation in contemporary European society
+  contributor:
+    - family: Limacher
+      given: Katharina
+    - family: Mattes
+      given: Astrid
+    - family: Novak
+      given: Christoph
+    - family: Tunger-Zanetti
+      given: Andreas
+    - family: Martens
+      given: Silvia
+    - family: Endres
+      given: Jürgen
+    - family: Hyökki
+      given: Linda
+    - family: Hafez
+      given: Farid
+    - family: Evolvi
+      given: Giulia
+    - family: Lohlker
+      given: Rüdiger
+    - family: Khaliefi
+      given: Rebekka
+    - family: Odermatt
+      given: Anastas
+    - family: Wetzel
+      given: Jana
+    - family: Loth
+      given: Martina
+    - family: Tepeli
+      given: Dilek Aysel
+  edition: '[1. edition]'
+  event-place: Göttingen, [Wien]
+  ISBN: 978-3-8471-0979-2
+  issued:
+    - year: 2019
+  language: eng
+  note: 'OCLC: 1100542018'
+  number-of-pages: '278'
+  publisher: V&R unipress Vienna University Press
+  publisher-place: Göttingen, [Wien]
+  source: Open WorldCat
+  title: Prayer, pop and politics researching religious youth in migration society
+  type: book
+  URL: https://d-nb.info/1180064194/04
+
+- id: mahmudovaLikesCommentsFollow2021
+  abstract: >-
+    Abstract Young Dutch Muslim women often lead complex existences: on the one
+    hand, they may be considered “other” to European culture and expected to
+    conform to so-called Western values; on the other hand, they can be subject
+    to scrutiny within their cultural and religious communities. This article
+    explores young Dutch Muslim women’s online practices by focusing on
+    Instagram. By discussing the theories of third spaces (Bhabha, 1994;
+    Pennington, 2018b) and composite habitus (Bourdieu, 1990; Waltorp, 2015), we
+    investigate the following questions: How do young Dutch Muslim women use
+    Instagram? What are the opportunities and constraints that they face when
+    using Instagram? Through qualitative interviews, we discovered that
+    Instagram helps young Dutch Muslim women express their identity in their own
+    terms, but it presents negative aspects connected with privacy and
+    surveillance. We then discuss the need not to generalize Muslim women’s
+    experiences and instead to consider their selective use of Instagram and
+    heterogeneity within Islam.
+  accessed:
+    - year: 2024
+      month: 10
+      day: 7
+  author:
+    - family: Mahmudova
+      given: Lale
+    - family: Evolvi
+      given: Giulia
+  citation-key: mahmudovaLikesCommentsFollow2021
+  container-title: Journal of Religion, Media and Digital Culture
+  DOI: 10.1163/21659214-bja10038
+  ISSN: 2165-9214, 2588-8099
+  issue: '1'
+  issued:
+    - year: 2021
+      month: 8
+      day: 6
+  language: eng
+  page: 50-70
+  publisher: Brill
+  source: brill-com.proxy.ub.uni-frankfurt.de
+  title: >-
+    Likes, Comments, and Follow Requests: The Instagram User Experiences of
+    Young Muslim Women in the Netherlands
+  title-short: Likes, Comments, and Follow Requests
+  type: article-journal
+  URL: https://brill.com/view/journals/rmdc/10/1/article-p50_50.xml
+  volume: '10'
+
+- id: mattesYouBeOnYoungBelievers2022
+  abstract: Mapping On- and Offline Identifications of Urban Religious Youth
+  accessed:
+    - year: 2023
+      month: 10
+      day: 10
+  author:
+    - family: Mattes
+      given: Astrid
+    - family: Novak
+      given: Christoph
+    - family: Haselbacher
+      given: Miriam
+    - family: Limacher
+      given: Katharina
+    - family: Abdolvahab
+      given: Shirin
+    - family: Rauer
+      given: Eva
+    - family: Probst
+      given: Stefan
+    - family: Ďurčo
+      given: Matej
+    - family: Hasenberger
+      given: Markus
+    - family: Breuer
+      given: Ludwig Maximilian
+  citation-key: mattesYouBeOnYoungBelievers2022
+  issued:
+    - year: 2022
+  language: de
+  title: YouBeOn - Young Believers Online
+  type: webpage
+  URL: https://app.youbeon.eu/places
+
+- id: muellerGlaubensinfluencerInnenAuf2024
+  author:
+    - family: Müller
+      given: Sabrina
+  citation-key: muellerGlaubensinfluencerInnenAuf2024
+  container-title: 'Religion auf Instagram: Analysen und Perspektiven'
+  edition: 1st ed
+  editor:
+    - family: Pirker
+      given: Viera
+    - family: Paschke
+      given: Paula
+  event-place: München
+  ISBN: 978-3-451-83083-9
+  issued:
+    - year: 2024
+  language: ger
+  page: 137-153
+  publisher: Herder Verlag
+  publisher-place: München
+  source: K10plus ISBN
+  title: Glaubensinfluencer:innen auf Instagram
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363266/CourseNode/93668888136198/04-Mu%CC%88ller+-+2024+-+Glaubensinfluencerinnen+auf+Instagram.pdf
+
+- id: ochsLocalDigitalPractices2020
+  abstract: >-
+    Whereas early globalization studies tended to equate digital globalization
+    with sociocultural homogenization, social scientific approaches have
+    gradually become more sensitive towards the interplay between globalizing
+    and localizing tendencies. The present chapter investigates this interplay
+    in digitization processes by drawing on an ethnographic study of a
+    “technical development” project that was carried out in Pakistan and aimed
+    at generating digital networking practices from scratch. I argue that the
+    production of these practices may be best understood as the simultaneous and
+    paradoxical generation of global sociality via local culture. I call this
+    the paradox of digital glocalization.
+  accessed:
+    - year: 2024
+      month: 10
+      day: 15
+  author:
+    - family: Ochs
+      given: Carsten
+  citation-key: ochsLocalDigitalPractices2020
+  container-title: Handbuch Soziale Praktiken und Digitale Alltagswelten
+  DOI: 10.1007/978-3-658-08357-1_13
+  editor:
+    - family: Friese
+      given: Heidrun
+    - family: Nolden
+      given: Marcus
+    - family: Rebane
+      given: Gala
+    - family: Schreiter
+      given: Miriam
+  event-place: Wiesbaden
+  ISBN: 978-3-658-08357-1
+  issued:
+    - year: 2020
+  language: de
+  page: 137-146
+  publisher: Springer Fachmedien
+  publisher-place: Wiesbaden
+  source: Springer Link
+  title: Local Digital Practices, Worldwide
+  type: chapter
+  URL: https://doi.org/10.1007/978-3-658-08357-1_13
+
+- id: oezhankocakCollectiveMemoryDigital2020
+  abstract: >-
+    As digital media lead to a transformation of the experience of time and
+    space, they evoke new questions for the field of both personal and
+    collective memory and history. While the bonds that held groups together in
+    pre-modern societies once guaranteed the sustainability of social memory,
+    patterns of common belonging have changed in today’s computerized world.
+    This chapter argues that digital communication technologies have given rise
+    to new unique forms of collectivity through the opportunities they afford
+    for bringing people together around the globe. Furthermore, digital media
+    provide emplacement for collective and global memory. The chapter also
+    raises the issue of whether digital records have the potential to oppose
+    official historiographies with grassroots counterhistory.
+  accessed:
+    - year: 2024
+      month: 10
+      day: 15
+  author:
+    - family: Özhan Koçak
+      given: Dilek
+  citation-key: oezhankocakCollectiveMemoryDigital2020
+  container-title: Handbuch Soziale Praktiken und Digitale Alltagswelten
+  DOI: 10.1007/978-3-658-08357-1_36
+  editor:
+    - family: Friese
+      given: Heidrun
+    - family: Nolden
+      given: Marcus
+    - family: Rebane
+      given: Gala
+    - family: Schreiter
+      given: Miriam
+  event-place: Wiesbaden
+  ISBN: 978-3-658-08357-1
+  issued:
+    - year: 2020
+  language: de
+  page: 55-66
+  publisher: Springer Fachmedien
+  publisher-place: Wiesbaden
+  source: Springer Link
+  title: Collective Memory and Digital Practices of Remembrance
+  type: chapter
+  URL: https://doi.org/10.1007/978-3-658-08357-1_36
+
+- id: okunOnlineUltraOrthodoxReligious2017
+  abstract: >-
+    This research applies a netnographic approach to explore the extent to which
+    online communities function as a third space that supports a networked
+    religion. Five months of observation at a leading online ultra-Orthodox
+    Jewish forum revealed four chief characteristics: religious–secular
+    discussion—the forum served as a platform for religious discourse as well as
+    a sphere for discussing a wide range of subjects unrelated to religion;
+    identity game—members constantly played two types of identity games:
+    personal and group; intense activity—the forum was characterized by rather
+    intense activity patterns; and a unique religious expressiveness—this was
+    reflected in textual and visual representations and exhibited in online
+    debates. Findings indicate that the forum offers its members a third space
+    of digital religion that is hybrid in any possible sense and reinforces a
+    lively networked religion. While it aims at enabling serious discussion of
+    religious matters, it also serves members as a social sphere in which they
+    can communicate about extrareligious issues; express their personalities,
+    skills and opinions; and even play with their anonymous peers.
+  accessed:
+    - year: 2024
+      month: 10
+      day: 7
+  author:
+    - family: Okun
+      given: Sarit
+    - family: Nimrod
+      given: Galit
+  citation-key: okunOnlineUltraOrthodoxReligious2017
+  container-title: International Journal of Communication
+  ISSN: 1932-8036
+  issue: '0'
+  issued:
+    - year: 2017
+      month: 6
+      day: 29
+  language: en
+  license: "The  International Journal of Communication  is an academic journal. As such, it is dedicated to the open exchange of information. For this reason, IJoC is freely available to individuals and institutions. Copies of this journal or articles in this journal may be distributed for research or educational purposes free of charge and without permission. However, commercial use of the IJoC website or the articles contained herein is expressly prohibited without the written consent of the editor. Authors who publish in The  International Journal of Communication  will release their articles under the   Creative Commons Attribution Non-Commercial No Derivatives (by-nc-nd) license  . This license allows anyone to copy and distribute the article for non-commercial purposes provided that appropriate attribution is given. For details of the rights authors grants users of their work, see the  \"human-readable summary\" of the license , with a link to the full license. (Note that \"you\" refers to a user, not an author, in the summary.) This journal utilizes the  LOCKSS system to create a distributed archiving system among participating libraries and permits those libraries to create permanent archives of the journal for purposes of preservation and restoration. The publisher perpetually authorizes participants in the LOCKSS system to archive and restore our publication through the LOCKSS System for the benefit of all LOCKSS System participants. Specifically participating libraries may:  Collect and preserve currently accessible materials;  Use material consistent with original license terms;  Provide copies to other LOCKSS appliances for purposes of audit and repair.   \_    Fair Use The U.S. Copyright Act of 1976 specifies, in Section 107, the terms of the Fair Use exception: Notwithstanding the provisions of sections 106 and 106A, the fair use of a copyrighted work, including such use by reproduction in copies or phonorecords or by any other means specified by that section, for purposes such as criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research, is not an infringement of copyright. In determining whether the use made of a work in any particular case is a fair use the factors to be considered shall include:  the purpose and character of the use, including whether such use is of a commercial nature or is for nonprofit educational purposes;  the nature of the copyrighted work;  the amount and substantiality of the portion used in relation to the copyrighted work as a whole; &amp;  the effect of the use upon the potential market for or value of the copyrighted work.   The fact that a work is unpublished shall not itself bar a finding of fair use if such finding is made upon consideration of all the above factors. In accord with these provisions, the  International Journal of Communication  believes in the vigorous assertion and defense of Fair Use by scholars engaged in academic research, teaching and non-commercial publishing. Thus, we view the inclusion of “quotations” from existing print, visual, audio and audio-visual texts to be appropriate examples of Fair Use, as are reproductions of visual images for the purpose of scholarly analysis. We encourage authors to obtain appropriate permissions to use materials originally produced by others, but do not require such permissions as long as the usage of such materials falls within the boundaries of Fair Use.  The  International Journal of Communication  encourages authors to employ fair use in their scholarly publishing wherever appropriate. Fair use is the right to use unlicensed copyrighted material (whether it is text, images, audio-visual, or other) in your own work, in some circumstances. We consult the  Code of Best Practices in Fair Use for Scholarly Research in Communication , created by the International Communication Association and endorsed by the National Communication Association, and you should too. If you have any questions about whether fair use applies to your uses of copyrighted material (whether it is text, images, audio-visual, or other) in your scholarship, simply include your rationale, grounded in the Best Practices, as a supplementary document with your submission."
+  number: '0'
+  page: '17'
+  source: ijoc.org
+  title: >-
+    Online Ultra-Orthodox Religious Communities as a Third Space: A Netnographic
+    Study
+  title-short: Online Ultra-Orthodox Religious Communities as a Third Space
+  type: article-journal
+  URL: https://ijoc.org/index.php/ijoc/article/view/6515
+  volume: '11'
+
+- id: petersonUnrulySoulsDigital2022
+  author:
+    - family: Peterson
+      given: Kristin M.
+  citation-key: petersonUnrulySoulsDigital2022
+  event-place: New Brunswick Camden Newark,New Jersey London
+  ISBN: 978-1-978822-70-2 978-1-978822-66-5 978-1-978822-67-2
+  issued:
+    - year: 2022
+  language: eng
+  number-of-pages: '181'
+  publisher: Rutgers University Press
+  publisher-place: New Brunswick Camden Newark,New Jersey London
+  source: K10plus ISBN
+  title: 'Unruly souls: the digital activism of Muslim and Christian feminists'
+  title-short: Unruly souls
+  type: book
+  URL: >-
+    https://lbsweb.rz.uni-frankfurt.de/cgi-bin/he_ebook_button.pli?EBOOK_URN=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D7000992&EBOOK_FNO=30&EBOOK_LANG=EN
+
+- id: petersPlattformforschungMitInstagramDaten2023
+  abstract: "Zusammenfassung\n            Die Foto- und Video-Sharing-Plattform Instagram hat sich in den vergangenen Jahren zu einem der meistgenutzten sozialen Medien weltweit entwickelt. Auf Grund der forschungspraktischen Hürden, die mit der Erhebung von Instagram-Daten einhergehen, scheint Instagram in der (empirischen) Plattformforschung noch unterrepräsentiert zu sein. In diesem Artikel werden daher einige der verschiedenen Möglichkeiten aufgezeigt, Instagram-Daten zu erheben. Zunächst führen wir jedoch in die Mediengrammatik der Plattform Instagram ein. Dieser Ansatz hilft die im Anschluss vorgestellten Möglichkeiten der Erhebung von Instagram-Daten zu differenzieren und theoretisch zu rahmen. In Bezug auf die Datenerhebung unterscheiden wir zwischen fünf verschiedenen Erhebungsstrategien: a)\_der manuellen Erhebung, b)\_den freien Programmiersprachen, c)\_den Tools des Meta-Konzerns, d)\_den kommerziellen Tools und e)\_der Datenspende. Diese werden anhand relevanter Kriterien (unter anderem Mediengrammatik, Erhebungsform, Beitragsebenen, Vollständigkeit, Programmierkenntnisse) gegenübergestellt. Es zeigt sich, dass je nach Forschungsfrage und Methode unterschiedliche Datenerhebungsstrategien angemessen sein können. Zuletzt werden auch die forschungsethischen Implikationen der Erhebung von Instagram-Daten diskutiert.\n          , \n            Abstract\n            In recent years, the photo and video sharing platform Instagram has become one of the most widely used social media platforms worldwide. Due to practical research barriers related to data collection, Instagram still seems to be underrepresented in (empirical) platform research. Therefore, this article highlights the different ways in which Instagram data can be collected. First, we introduce the media grammar of Instagram. This approach helps to differentiate and theoretically frame the options of collecting Instagram data. In terms of data collection, we distinguish between five different strategies: a)\_manual collection, b)\_free programming languages, c)\_tools from the Meta group, d)\_commercial tools and e)\_data donation. These strategies are compared on the basis of selected criteria (including media grammar, survey form, contribution level, completeness, programming skills). It can be shown that data collection strategies mainly depend on research questions and methods applied. Finally, the ethical implications of collecting Instagram data are discussed."
+  accessed:
+    - year: 2024
+      month: 10
+      day: 7
+  author:
+    - family: Peters
+      given: Yannik
+    - family: Nehls
+      given: Patrick
+    - family: Thimm
+      given: Caja
+  citation-key: petersPlattformforschungMitInstagramDaten2023
+  container-title: Publizistik
+  container-title-short: Publizistik
+  DOI: 10.1007/s11616-023-00786-8
+  ISSN: 0033-4006, 1862-2569
+  issue: 2-3
+  issued:
+    - year: 2023
+      month: 9
+  language: de
+  page: 225-239
+  source: DOI.org (Crossref)
+  title: >-
+    Plattformforschung mit Instagram-Daten – Eine Übersicht über analytische
+    Zugänge, digitale Erhebungsverfahren und forschungsethische Perspektiven in
+    Zeiten der APIcalypse
+  type: article-journal
+  URL: https://link.springer.com/10.1007/s11616-023-00786-8
+  volume: '68'
+
+- id: pinkDigitalEthnographyPrinciples2016
+  author:
+    - family: Pink
+      given: Sarah
+    - family: Horst
+      given: Heather A.
+    - family: Postill
+      given: John
+    - family: Hjorth
+      given: Larissa
+    - family: Lewis
+      given: Tania
+    - family: Tacchi
+      given: Jo
+  citation-key: pinkDigitalEthnographyPrinciples2016
+  event-place: Los Angeles
+  ISBN: 978-1-4739-0238-1
+  issued:
+    - year: 2016
+  number-of-pages: xiii, 202 Seiten
+  publisher: SAGE
+  publisher-place: Los Angeles
+  source: COinS
+  title: 'Digital ethnography : principles and practice'
+  title-short: Digital ethnography
+  type: book
+
+- id: pirkerReligionAufInstagram2024
+  citation-key: pirkerReligionAufInstagram2024
+  contributor:
+    - family: Becker
+      given: Lilith
+    - family: Burke
+      given: Rebekka
+    - family: Hörsch
+      given: Daniel
+    - family: Kuhn
+      given: Jan
+    - family: Mayrhofer
+      given: Florian
+    - family: Mattes
+      given: Astrid
+    - family: Mößle
+      given: Laura
+    - family: Müller
+      given: Sabrina
+  edition: 1st ed
+  editor:
+    - family: Pirker
+      given: Viera
+    - family: Paschke
+      given: Paula
+  event-place: München
+  ISBN: 978-3-451-83083-9
+  issued:
+    - year: 2024
+  language: ger
+  number-of-pages: '1'
+  publisher: Herder Verlag
+  publisher-place: München
+  source: K10plus ISBN
+  title: 'Religion auf Instagram: Analysen und Perspektiven'
+  title-short: Religion auf Instagram
+  type: book
+
+- id: przybylskiHybridEthnographyOnline2021
+  author:
+    - family: Przybylski
+      given: Liz
+  call-number: UBFFM BSP 04/LC 13000 P973
+  citation-key: przybylskiHybridEthnographyOnline2021
+  event-place: Los Angeles
+  ISBN: 978-1-5443-2032-8
+  ISSN: 0888-5397
+  issued:
+    - year: 2021
+  number-of-pages: xxi, 196 Seiten
+  publisher: SAGE
+  publisher-place: Los Angeles
+  source: COinS
+  title: 'Hybrid ethnography : online, offline, and in between'
+  title-short: Hybrid ethnography
+  type: book
+
+- id: przybylskiIntroductionHybridEthnography2021
+  author:
+    - family: Przybylski
+      given: Liz
+  citation-key: przybylskiIntroductionHybridEthnography2021
+  container-title: 'Hybrid ethnography: online, offline, and in between'
+  event-place: Los Angeles
+  ISBN: 978-1-5443-2032-8
+  ISSN: 0888-5397
+  issued:
+    - year: 2021
+  language: en
+  page: 1-16
+  publisher: SAGE
+  publisher-place: Los Angeles
+  source: COinS
+  title: Introduction to Hybrid Ethnography
+  type: chapter
+
+- id: rashiReligiousCommunityCommunal2023
+  abstract: >-
+    Robert Putnam observed that more people than ever go bowling, but fewer than
+    ever do so as parts of teams, a phenomenon that he named “Bowling Alone
+    [...]
+  accessed:
+    - year: 2024
+      month: 10
+      day: 7
+  author:
+    - family: Rashi
+      given: Tsuriel
+  citation-key: rashiReligiousCommunityCommunal2023
+  container-title: Religions
+  DOI: 10.3390/rel14060697
+  ISSN: 2077-1444
+  issue: '6'
+  issued:
+    - year: 2023
+      month: 6
+  language: en
+  license: http://creativecommons.org/licenses/by/3.0/
+  number: '6'
+  page: '697'
+  publisher: Multidisciplinary Digital Publishing Institute
+  source: www.mdpi.com
+  title: >-
+    Religious Community and Communal Religiosity: Foundations at the Beginning
+    of the 21st Century
+  title-short: Religious Community and Communal Religiosity
+  type: article-journal
+  URL: https://www.mdpi.com/2077-1444/14/6/697
+  volume: '14'
+
+- id: richterRelationaleAffordanzenOder2022
+  accessed:
+    - year: 2024
+      month: 10
+      day: 15
+  author:
+    - family: Richter
+      given: Christoph
+    - family: Schröder
+      given: Christoph
+  citation-key: richterRelationaleAffordanzenOder2022
+  collection-title: Digitale Gesellschaft
+  container-title: >-
+    Spuren digitaler Artikulationen: Interdisziplinäre Annäherungen an Soziale
+    Medien als kultureller Bildungsraum
+  DOI: 10.14361/9783839459744
+  edition: '1'
+  editor:
+    - family: Böhnke
+      given: Nick
+    - family: Richter
+      given: Christoph
+    - family: Schröder
+      given: Christoph
+    - family: Ide
+      given: Martina
+    - family: Allert
+      given: Heidrun
+  event-place: Bielefeld, Germany
+  ISBN: 978-3-8376-5974-0 978-3-8394-5974-4
+  issued:
+    - year: 2022
+      month: 10
+      day: 19
+  language: de
+  license: https://creativecommons.org/licenses/by/4.0/
+  page: 139-170
+  publisher: transcript Verlag
+  publisher-place: Bielefeld, Germany
+  source: DOI.org (Crossref)
+  title: >-
+    Relationale Affordanzen. Oder die Möglichkeit einer ›fantastischen
+    Authentizität‹ auf Instagram
+  type: chapter
+  URL: >-
+    https://www.transcript-open.de/pdf_chapter/bis%205999/9783839459744/9783839459744-005.pdf
+  volume: '44'
+
+- id: roesslerWozuQuantitativeStandardisierte2017
+  author:
+    - family: Rössler
+      given: Patrick
+  citation-key: roesslerWozuQuantitativeStandardisierte2017
+  container-title: Inhaltsanalyse
+  edition: 3., völlig überarbeitete Auflage
+  event-place: Konstanz
+  ISBN: 978-3-8385-4706-0
+  issued:
+    - year: 2017
+  language: de
+  page: 13-25
+  publisher: UVK Verlagsgesellschaft mbH
+  publisher-place: Konstanz
+  title: Wozu quantitative, standardisierte Inhaltsanalysen?
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363266/CourseNode/93668888136198/07-Ro%CC%88ssler+-+2017+-+Wozu+quantitative%2C+standardisierte+Inhaltsanalysen.pdf
+
+- id: rogersDigitalMethodsCrossplatform2018
+  accessed:
+    - year: 2024
+      month: 10
+      day: 7
+  author:
+    - family: Rogers
+      given: Richard
+  citation-key: rogersDigitalMethodsCrossplatform2018
+  container-author:
+    - family: Burgess
+      given: Jean
+    - family: Marwick
+      given: Alice
+    - family: Poell
+      given: Thomas
+  container-title: The SAGE Handbook of Social Media
+  DOI: 10.4135/9781473984066.n6
+  event-place: "1 Oliver's Yard,\_55 City Road\_London\_EC1Y 1SP"
+  ISBN: 978-1-4129-6229-2 978-1-4739-8406-6
+  issued:
+    - year: 2018
+  page: 91-108
+  publisher: SAGE Publications Ltd
+  publisher-place: "1 Oliver's Yard,\_55 City Road\_London\_EC1Y 1SP"
+  source: DOI.org (Crossref)
+  title: Digital Methods for Cross-platform Analysis
+  type: chapter
+  URL: >-
+    https://sk-sagepub-com.proxy.ub.uni-frankfurt.de/reference/the-sage-handbook-of-social-media/i851.xml
+
+- id: rosslerInhaltsanalyse2017
+  author:
+    - family: Rössler
+      given: Patrick
+  citation-key: rosslerInhaltsanalyse2017
+  edition: 3., völlig überarbeitete Auflage
+  event-place: Konstanz
+  ISBN: 978-3-8385-4706-0
+  issued:
+    - year: 2017
+  number-of-pages: 1 Online Ressource (292 Seiten)
+  publisher: UVK Verlagsgesellschaft mbH
+  publisher-place: Konstanz
+  title: Inhaltsanalyse
+  type: book
+  URL: >-
+    https://elibrary-utb-de.proxy.ub.uni-frankfurt.de/doi/reader/10.36198/9783838547060
+
+- id: RoutledgeCompanionDigital2017
+  call-number: 306.402 854678
+  citation-key: RoutledgeCompanionDigital2017
+  collection-title: Routledge companions
+  event-place: New York, NY
+  ISBN: 978-1-138-94091-8
+  issued:
+    - year: 2017
+  language: eng
+  number-of-pages: xxiv, 494 Seiten
+  publisher: Routledge
+  publisher-place: New York, NY
+  source: BnF ISBN
+  title: The Routledge companion to digital ethnography
+  type: book
+
+- id: royDigitalEthnographyOpportunity2023
+  abstract: >-
+    Digital ethnography is fast emerging as a unique and dynamic discipline that
+    plays a supplementary role to traditional ethnography for studying human
+    societies, cultures, natural environments, and the processes of
+    co-adaptation. Digital ethnography may seem to have compromised with the
+    original participatory observation method due to limited immersion in the
+    field for any period, which had been an essential component of ethnography
+    traditionally. While digital ethnography has seemingly compromised the
+    classical method, the basic tenets have by no means taken a back seat. It
+    has added several creative, user-friendly, cost-effective, and time-saving
+    approaches to meet the primary purpose of conducting a study with a focus on
+    the specific problem of the community under research and the possible
+    options being presented as solutions. This chapter will illustrate the
+    field-tested methods of the Indian Institute of Bio-Social Research and
+    Development (IBRAD) in applying digital ethnography, for studying the
+    options available for livelihoods among the tribals who have been known to
+    suffer from poverty and malnutrition. It is an unprecedented case of
+    participatory action research where the researchers connected with the
+    particularly vulnerable tribal groups (PVTGs) of Odisha and Chhattisgarh
+    through video conferencing on a smartphone across the zoom platform for a
+    year-long study and engaged the government functionaries to extend support
+    for livelihoods consolidation of the tribals.
+  author:
+    - family: Roy
+      given: Shree Bhagwan
+  citation-key: royDigitalEthnographyOpportunity2023
+  container-title: Ethnographic Research in the Social Sciences
+  ISBN: 978-1-00-339277-4
+  issued:
+    - year: 2023
+  number-of-pages: '14'
+  publisher: Routledge India
+  title: >-
+    Digital Ethnography Opportunity and Challenges in Applying for Tribal
+    Development
+  type: chapter
+
+- id: rozehnalCyberMuslimsMapping2022
+  abstract: >-
+    Written by the leading scholars in digital Islam, this book provides
+    detailed case studies that explore the vibrant digital expressions of
+    diverse groups of Muslim cybernauts: religious clerics and Sufi mystics,
+    feminists and fashionistas, artists and activists, Hajj pilgrims and
+    celebrities. Together, these stories span a vast cultural and geographic
+    landscape, including Indonesia, Iran, the Middle East, and the United
+    States.
+                These case studies are contextualized within the backdrop of broader social trends, including racism and Islamophobia, gender dynamics, celebrity culture, identity politics, and the shifting dynamics of contemporary religious piety and practice.
+                Authors examine a wide-range of digital multimedia technologies as primary ''texts." These include websites, podcasts, Twitter, Facebook, Instagram, YouTube channels, online magazines and discussion forums, and religious apps. The book's contributors draw on the methodological and theoretical models of multiple academic disciplines, including Religious Studies, Cultural Anthropology, Global Studies, Communication and Media Studies, Religious Studies, and Islamic Studies.
+  accessed:
+    - year: 2024
+      month: 10
+      day: 15
+  citation-key: rozehnalCyberMuslimsMapping2022
+  DOI: 10.5040/9781350233737
+  edition: '1'
+  editor:
+    - family: Rozehnal
+      given: Robert
+  ISBN: 978-1-350-23373-7 978-1-350-23370-6
+  issued:
+    - year: 2022
+  language: en
+  publisher: Bloomsbury Publishing Plc
+  source: DOI.org (Crossref)
+  title: 'Cyber Muslims: Mapping Islamic Digital Media in the Internet Age'
+  title-short: Cyber Muslims
+  type: book
+  URL: https://www.bloomsburycollections.com/monograph?docid=b-9781350233737
+
+- id: SAGEHandbookSocial2017
+  citation-key: SAGEHandbookSocial2017
+  event-place: Los Angeles
+  ISBN: 978-1-4739-8721-0
+  issued:
+    - year: 2017
+  number-of-pages: 1 Online-Ressource (xxvii, 679 Seiten)
+  publisher: SAGE
+  publisher-place: Los Angeles
+  title: The SAGE handbook of social media research methods
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Fdx.doi.org%2F10.4135%2F9781473984066
+
+- id: shorterMelissaWilcoxQueer2021
+  accessed:
+    - year: 2024
+      month: 10
+      day: 7
+  author:
+    - family: Shorter
+      given: Rosie Clare
+  citation-key: shorterMelissaWilcoxQueer2021
+  container-title: Journal of Religion, Media and Digital Culture
+  DOI: 10.1163/21659214-10010001
+  ISSN: 2165-9214, 2588-8099
+  issue: '1'
+  issued:
+    - year: 2021
+      month: 8
+      day: 6
+  language: eng
+  page: 162-164
+  publisher: Brill
+  source: brill-com.proxy.ub.uni-frankfurt.de
+  title: 'Melissa M. Wilcox. Queer Nuns: Religion, Activism, and Serious Parody'
+  title-short: Melissa M. Wilcox. Queer Nuns
+  type: article-journal
+  URL: https://brill.com/view/journals/rmdc/10/1/article-p162_162.xml
+  volume: '10'
+
+- id: sinananEthnography2018
+  accessed:
+    - year: 2024
+      month: 10
+      day: 7
+  author:
+    - family: Sinanan
+      given: Jolynna
+    - family: McDonald
+      given: Tom
+  citation-key: sinananEthnography2018
+  container-author:
+    - family: Burgess
+      given: Jean
+    - family: Marwick
+      given: Alice
+    - family: Poell
+      given: Thomas
+  container-title: The SAGE Handbook of Social Media
+  DOI: 10.4135/9781473984066.n11
+  event-place: "1 Oliver's Yard,\_55 City Road\_London\_EC1Y 1SP"
+  ISBN: 978-1-4129-6229-2 978-1-4739-8406-6
+  issued:
+    - year: 2018
+  page: 179-195
+  publisher: SAGE Publications Ltd
+  publisher-place: "1 Oliver's Yard,\_55 City Road\_London\_EC1Y 1SP"
+  source: DOI.org (Crossref)
+  title: Ethnography
+  type: chapter
+  URL: >-
+    https://sk-sagepub-com.proxy.ub.uni-frankfurt.de/reference/the-sage-handbook-of-social-media/i1471.xml
+
+- id: stadlbauerSalafistThirdSpaces2021
+  abstract: >-
+    Abstract This case study applies aspects of third space theory (Bhabha,
+    2004; Hoover & Echchaibi, 2014) to investigate the activism on the YouTube
+    channel Salafimedia UK (smuk) and their claim to be the self-proscribed
+    “truest” and “purest” Islamic sect. This chapter introduces the somewhat
+    paradoxical concept of “hybridic purity” – an emerging ideology that seeks
+    to encompass pre-modern Islamic practices of the salaf (“predecessors” or
+    first generations of Muslims) as the purest form of Islam (see also
+    Wagemakers, 2016); modern values of individuality and reliance on the
+    “self”; the affordances of the YouTube channel; and resistance to
+    present-day Western cultural and political values, especially those of the
+    United Kingdom (UK), as well as to the UK government’s censorship and bans
+    of Salafist movements. This hybridic purity becomes authoritative as it
+    compels YouTube audience members to take responsibility for their own growth
+    and activism as pious Salafists.
+  accessed:
+    - year: 2024
+      month: 10
+      day: 7
+  author:
+    - family: Stadlbauer
+      given: Susanne
+  citation-key: stadlbauerSalafistThirdSpaces2021
+  container-title: Journal of Religion, Media and Digital Culture
+  DOI: 10.1163/21659214-bja10034
+  ISSN: 2165-9214, 2588-8099
+  issue: '1'
+  issued:
+    - year: 2021
+      month: 8
+      day: 6
+  language: eng
+  page: 13-29
+  publisher: Brill
+  source: brill-com.proxy.ub.uni-frankfurt.de
+  title: Salafist Third Spaces and Hybridic Purity on YouTube
+  type: article-journal
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363266/CourseNode/93668888136198/09-Stadlbauer+-+2021+-+Salafist+Third+Spaces+and+Hybridic+Purity+on+YouTu.pdf
+  volume: '10'
+
+- id: tekinJuedischeuropaeischeErinnerungskulturIm2021
+  abstract: >-
+    Im 21. Jahrhundert stehen Medien, insbesondere soziale Medien und deren
+    Einfluss auf Kinder und Jugendliche zunehmend im Zentrum des
+    gesellschaftlichen Lebens. Sozialen Medien wird eo ipso eine wichtige
+    Funktion in der individuellen Meinungsbildung wie auch gesellschaftlichen
+    Rollenvergabe zugesprochen. Im Rahmen des vorliegenden Vortrags sollen auf
+    Grundlage des theoretischen Ansatzes der Medialisierung folglich auch die
+    gesellschaftlichen Veränderungen und der soziale Wandel vor dem Hintergrund
+    der medialen Omnipräsenz dargestellt werden. Dabei wird der Versuch
+    unternommen, einen (sozial)medialen Korpus der jüdisch-europäischen
+    Erinnerungskultur zu erstellen. Das angedachte Korpus setzt sich aus der ARD
+    und ZDF-Mediathek zusammen. Exemplarisch wird die Zukunftspodcast der
+    Tagesschau mal angenommen. Keine Zeitzeugen mehr? Was dann? vorgestellt. Die
+    vorgestellten Korpora sind ferner als eine Form der bezeugten
+    Berichterstattung zu verstehen, die ein Gedenken an den Holocaust und die
+    Gräueltaten auch in Zukunft wachhalten sollen. Neben den (deutsch-)jüdischen
+    Studien, der deutsch-jüdischen Literatur und der wissenschaftlichen
+    Auseinandersetzung mit der Thematik, lassen sich medialen Aufzeichnungen in
+    Form von Video- oder Audiomaterial eine große Bedeutung zuweisen. In der
+    Hoffnung, dass sich Geschichte nicht wiederholt, übernehmen mediale Korpora
+    in diesem Sinne eine wichtige Funktion in der Aufrechterhaltung der
+    Erinnerung an die Verbrechen des NS-Regimes und dem Verbleib im kollektiven
+    Gedächtnis. Demnach können mediale Korpora in Form bezeugter
+    Berichterstattung ein aktives Engagement im Akt des Erinnerns anregen und
+    die Sensibilität im Hinblick auf etwaige zukünftige Verbrechen fördern. Das
+    Ziel des Beitrags besteht demzufolge darin, die Entstehung, Erstellung und
+    Funktion eines möglichen (sozial)medialen Korpus‘ der jüdisch-europäischen
+    Erinnerungskultur zu skizzieren. Darüber hinaus werden informative
+    Diskursmöglichkeiten und weitere Anregungen für die Implementierung einer
+    digitalisierten Erinnerungskultur in Schulen und anderen
+    Bildungsinstitutionen gegeben.
+  accessed:
+    - year: 2024
+      month: 10
+      day: 7
+  author:
+    - family: Tekin
+      given: Habib
+  citation-key: tekinJuedischeuropaeischeErinnerungskulturIm2021
+  container-title: Diyalog Interkulturelle Zeitschrift Für Germanistik
+  container-title-short: DİYALOG
+  DOI: 10.37583/diyalog.1030310
+  ISSN: 2148-1482, 2148-1482
+  issue: '2'
+  issued:
+    - year: 2021
+      month: 12
+      day: 1
+  language: de
+  number: '2'
+  page: 506-527
+  publisher: Germanistler Derneği
+  source: dergipark.org.tr
+  title: Jüdisch-europäische Erinnerungskultur im Zeitalter des Kulturwandels
+  type: article-journal
+  URL: https://dergipark.org.tr/en/pub/diyalog/issue/65971/1030310
+  volume: '9'
+
+- id: thurlowDigitalDiscourseLocating2018
+  accessed:
+    - year: 2024
+      month: 10
+      day: 7
+  author:
+    - family: Thurlow
+      given: Crispin
+  citation-key: thurlowDigitalDiscourseLocating2018
+  container-author:
+    - family: Burgess
+      given: Jean
+    - family: Marwick
+      given: Alice
+    - family: Poell
+      given: Thomas
+  container-title: The SAGE Handbook of Social Media
+  DOI: 10.4135/9781473984066.n8
+  event-place: "1 Oliver's Yard,\_55 City Road\_London\_EC1Y 1SP"
+  ISBN: 978-1-4129-6229-2 978-1-4739-8406-6
+  issued:
+    - year: 2018
+  page: 135-145
+  publisher: SAGE Publications Ltd
+  publisher-place: "1 Oliver's Yard,\_55 City Road\_London\_EC1Y 1SP"
+  source: DOI.org (Crossref)
+  title: 'Digital Discourse: Locating Language in New/Social Media'
+  title-short: Digital Discourse
+  type: chapter
+  URL: >-
+    https://sk-sagepub-com.proxy.ub.uni-frankfurt.de/reference/the-sage-handbook-of-social-media/i1149.xml
+
+- id: tsuriaUnderstandingJewishDigital2018
+  abstract: >-
+    This chapter reviews studies on Israeli Judaism and digital media in light
+    of the theoretical considerations of mediatization. It presents how Israeli
+    Judaism has historically been highly mediatized. The chapter provides an
+    overview of past scholarly work on Israeli Judaism and digital media. It
+    highlights two specific case studies: religious community and identity
+    construction through humor in social media, and religious communal boundary
+    negotiation online. The chapter discusses the benefits and disadvantages of
+    using mediatization theories and suggest combining it with the theoretical
+    approach of Religious Social Shaping of Technology. Visual media such as
+    television, cinema and visual art are less accepted in Jewish religious
+    circles. Jewish Religious communities in Israel have reacted to digital
+    media in various ways, mostly through negotiation or rejection. O. Golan and
+    H. A. Campbell show how Jewish religious webmasters and content managers
+    take their work seriously and negotiate both technological affordances and
+    social-religious needs and knowledge.
+  author:
+    - family: Tsuria
+      given: Ruth
+    - family: Campbell
+      given: Heidi A.
+  citation-key: tsuriaUnderstandingJewishDigital2018
+  container-title: Mediatized Religion in Asia
+  ISBN: 978-1-315-17027-5
+  issued:
+    - year: 2018
+  number-of-pages: '18'
+  publisher: Routledge
+  title: >-
+    Understanding Jewish Digital Media in Israel: Between Technological
+    Affordances and Religious-Cultural Uses
+  title-short: Understanding Jewish Digital Media in Israel
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363266/CourseNode/93668888136198/14-Tsuria+and+Campbell+-+2018+-+Understanding+Jewish+Digital+Media+in+Israel+Betw.pdf
+
+- id: vitulloOnlineIntersectionIslamophobia2021
+  abstract: >-
+    Abstract Online radical Islam is a topic widely studied by scholars and
+    notoriously discussed among non- experts as well (Awan, 2007; Von Behr et
+    al. 2013; Gray & Head 2009). Because of its intrinsic characteristics (i.e.
+    accessibility, anonymity, or users’ identity dissimulation), the internet
+    has always been a useful tool for propagandists of Islamic fundamentalism
+    (Fighel, 2007; Stenersen, 2008; Koehler, 2014). However, in the last decade,
+    studies have questioned the real importance and magnitude of Islamic
+    radicalization online (Gill et al., 2017). In fact, while scholars were
+    focused on observing digital Islamic radicalization, a galaxy of new forms
+    of extremism was growing online (Silva et al., 2017; Roversi, 2008) that no
+    longer made Islam an exceptional case study. Today, Muslim people are one of
+    the groups most aggressively targeted by extremist, intolerant, violent, and
+    radical discourses (Elahi & Khan, 2017; Amnesty International, 2019).
+    Anti-Muslim hate speech has spread online throughout Europe and the United
+    States, reinforced by the propaganda and political discourse of populist
+    right-wing parties (Hafez, 2014; Bakali 2016). This paper introduces some
+    large-scale action-research projects developed in Europe and Italy in the
+    last three years (2016–2019) and aims to reconstruct the most updated
+    Islamophobia state of the art in terms of numbers, characteristics, and
+    phenomenology from the offline to the online context.
+  accessed:
+    - year: 2024
+      month: 10
+      day: 7
+  author:
+    - family: Vitullo
+      given: Alessandra
+  citation-key: vitulloOnlineIntersectionIslamophobia2021
+  container-title: Journal of Religion, Media and Digital Culture
+  DOI: 10.1163/21659214-bja10028
+  ISSN: 2165-9214, 2588-8099
+  issue: '1'
+  issued:
+    - year: 2021
+      month: 8
+      day: 6
+  language: eng
+  page: 95-114
+  publisher: Brill
+  source: brill-com.proxy.ub.uni-frankfurt.de
+  title: >-
+    The Online Intersection among Islamophobia, Populism, and Hate Speech: An
+    Italian Perspective
+  title-short: The Online Intersection among Islamophobia, Populism, and Hate Speech
+  type: article-journal
+  URL: https://brill.com/view/journals/rmdc/10/1/article-p95_95.xml
+  volume: '10'
 ...
