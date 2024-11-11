@@ -31,6 +31,8 @@ base-urls:
   polls: 'https://ars.particify.de/p/21973531/series'
   zotero: 'https://www.zotero.org/groups/5714740/24raeume'
 
+readings-header: "Pflichtlektüre"
+
 # Customize site text
 pagination:
   next_page: "Newer"
