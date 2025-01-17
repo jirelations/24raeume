@@ -426,6 +426,24 @@ references:
   title: The SAGE handbook of social media
   type: book
 
+- id: C4SurveyDocumentary2016
+  accessed:
+    - year: 2024
+      month: 12
+      day: 20
+  citation-key: C4SurveyDocumentary2016
+  container-title: Channel 4
+  issued:
+    - year: 2016
+      month: 4
+      day: 11
+  title: >-
+    C4 survey and documentary reveals What British Muslims Really Think [News
+    Release]
+  type: webpage
+  URL: >-
+    https://www.channel4.com/press/news/c4-survey-and-documentary-reveals-what-british-muslims-really-think
+
 - id: campbellContextualizingCurrentDigital2020
   abstract: >-
     This article provides an overview of contemporary research within the
@@ -1126,6 +1144,21 @@ references:
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363266/CourseNode/93668888136198/09-Latif+-+2018+-+Muslim+American+Cyber+Contestations+between+Schola.pdf
   volume: '7'
 
+- id: lieCulturalDiscourseAnalysis2017
+  author:
+    - family: Lie
+      given: Sunny
+  citation-key: lieCulturalDiscourseAnalysis2017
+  issue: '80'
+  issued:
+    - year: 2017
+  language: en
+  source: Zotero
+  title: Cultural Discourse Analysis
+  type: article-magazine
+  URL: >-
+    https://centerforinterculturaldialogue.org/wp-content/uploads/2017/01/kc80-cultural-discourse-analysis2.pdf
+
 - id: limacherPrayerPopPolitics2019
   accessed:
     - year: 2024
@@ -1476,6 +1509,35 @@ references:
   type: article-journal
   URL: https://link.springer.com/10.1007/s11616-023-00786-8
   volume: '68'
+
+- id: phillipsINCONVENIENTTRUTHShould2016
+  accessed:
+    - year: 2024
+      month: 12
+      day: 20
+  author:
+    - family: Phillips
+      given: Trevor
+  citation-key: phillipsINCONVENIENTTRUTHShould2016
+  container-title: Sunday Times (London, England)
+  ISSN: '09561382'
+  issued:
+    - year: 2016
+      month: 4
+      day: 10
+  language: English
+  page: '18'
+  publisher: NI Syndication Limited
+  title: >-
+    AN INCONVENIENT TRUTH; Should homosexuality be illegal? Should wives always
+    obey their husbands? And can a man have more than one wife? The most
+    comprehensive survey of British Muslims ever conducted reveals controversial
+    attitudes. Trevor Phillips argues that the time has come for a more muscular
+    approach to integration
+  title-short: AN INCONVENIENT TRUTH; Should homosexuality be illegal?
+  type: article-newspaper
+  URL: >-
+    https://go-gale-com.proxy.ub.uni-frankfurt.de/ps/i.do?p=AONE&sw=w&issn=09561382&v=2.1&it=r&id=GALE%7CA449001746&sid=googleScholar&linkaccess=abs
 
 - id: pinkDigitalEthnographyPrinciples2016
   author:
